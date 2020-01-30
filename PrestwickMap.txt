@@ -1,0 +1,1249 @@
+P_Well  Chemical_Name	Therapeutic_Class	Therapeutic_Effect
+P1_A1	Etomidate	Central Nervous System	Anesthetic
+P1_A3	Azaguanine-8	Oncology	Antineoplastic
+P1_A5	Allantoin	Dermatology	Antipsoriatic
+P1_A7	Acetazolamide	Metabolism	Anticonvulsant
+P1_A9	Metformin hydrochloride	Endocrinology	Anorectic
+P1_A11	Atracurium besylate	Neuromuscular	Curarizing
+P1_A13	Isoflupredone acetate	Endocrinology	Anti-inflammatory
+P1_A15	Amiloride hydrochloride dihydrate	Metabolism	Antihypertensive
+P1_A17	Amprolium hydrochloride	Infectiology	Anticoccidial
+P1_A19	Hydrochlorothiazide	Metabolism	Antihypertensive
+P1_A21	Sulfaguanidine	Infectiology	Antibacterial
+P1_A23	Tridihexethyl chloride	Neuromuscular	Antispastic
+P1_C1	Moricizine hydrochloride	Cardiovascular	Antiarrhythmic
+P1_C3	Meticrane	Metabolism	Antihypertensive
+P1_C5	Benzonatate	Neuromuscular	Antitussive
+P1_C7	Hydroflumethiazide	Metabolism	Antihypertensive
+P1_C9	Sulfacetamide sodic hydrate	Dermatology	Antibacterial
+P1_C11	Heptaminol hydrochloride	Cardiovascular	Analeptic
+P1_C13	Sulfathiazole	Infectiology	Antibacterial
+P1_C15	Levodopa	Central Nervous System	Antiparkinsonian
+P1_C17	Idoxuridine	Infectiology	Antiviral
+P1_C19	Captopril	Cardiovascular	Antihypertensive
+P1_C21	Minoxidil	Cardiovascular	Anti-alopecia
+P1_C23	Iopanoic acid	Diagnostic	Contrastant
+P1_E1	Phensuximide	Central Nervous System	Anticonvulsant
+P1_E3	Sulfaphenazole	Infectiology	Antibacterial
+P1_E5	Panthenol (D)	Metabolism	Anti-alopecia
+P1_E7	Sulfadiazine	Infectiology	Antibacterial
+P1_E9	Norethynodrel	Endocrinology	Contraceptive
+P1_E11	Thiamphenicol	Infectiology	Antibacterial
+P1_E13	Cimetidine	Gastroenterology	Antiulcer
+P1_E15	Doxylamine succinate	Allergology	Anti-anorectic
+P1_E17	Ethambutol dihydrochloride	Infectiology	Antibacterial
+P1_E19	Antipyrine	Central Nervous System	Analgesic
+P1_E21	Antipyrine, 4-hydroxy	Metabolism	Tests hepatic excretion
+P1_E23	Ioxaglic acid 	Diagnostic	Contrastant
+P1_G1	Imidurea	Infectiology	Antifungal
+P1_G3	Chloramphenicol	Infectiology	Antibacterial
+P1_G5	Epirizole	Central Nervous System	Analgesic
+P1_G7	Diprophylline	Cardiovascular	Analeptic
+P1_G9	Triamterene	Metabolism	Antihypertensive
+P1_G11	Dapsone	Infectiology	Antibacterial
+P1_G13	Troleandomycin	Infectiology	Antibacterial
+P1_G15	Pyrimethamine	Infectiology	Antimalarial
+P1_G17	Hexamethonium dibromide dihydrate	Cardiovascular	Antihypertensive
+P1_G19	Diflunisal	Central Nervous System	Analgesic
+P1_G21	Niclosamide	Infectiology	Antihelmintic
+P1_G23	Lansoprazole	Metabolism	Antiulcer
+P1_I1	(S)-propranolol hydrochloride	Cardiovascular	Antianginal
+P1_I3	Procaine hydrochloride	Neuromuscular	Local anesthetic
+P1_I5	Moxisylyte hydrochoride	Cardiovascular	Erectile dysfunction treatment
+P1_I7	Betazole hydrochloride	Gastroenterology	Diagnostic
+P1_I9	Isoxicam	Central Nervous System	Analgesic
+P1_I11	Naproxen	Central Nervous System	Analgesic
+P1_I13	Naphazoline hydrochloride	Cardiovascular	Nasal Decongestant
+P1_I15	Ticlopidine hydrochloride	Hematology	Anticoagulant
+P1_I17	Dicyclomine hydrochloride	Gastroenterology	Antispastic
+P1_I19	Amyleine hydrochloride	Neuromuscular	Local anesthetic
+P1_I21	Lidocaine hydrochloride	Cardiovascular	Antiarrhythmic
+P1_I23	(-)-Eseroline fumarate salt	Central Nervous System	Analgesic
+P1_K1	Spaglumic acid	Allergology	Antiallergic
+P1_K3	Trichlorfon	Infectiology	Antiparasitic
+P1_K5	Carbamazepine	Central Nervous System	Analgesic
+P1_K7	Triflupromazine hydrochloride	Central Nervous System	Antiemetic
+P1_K9	Mefenamic acid	Central Nervous System	Analgesic
+P1_K11	Acetohexamide	Endocrinology	Antidiabetic
+P1_K13	Sulpiride	Central Nervous System	Antidepressant
+P1_K15	Benoxinate hydrochloride	Neuromuscular	Local anesthetic
+P1_K17	Oxethazaine	Neuromuscular	Local anesthetic
+P1_K19	Pheniramine maleate	Allergology	Antihistaminic
+P1_K21	Tolazoline hydrochloride	Cardiovascular	Vasodilator
+P1_K23	Ranolazine	Cardiovascular	Antianginal
+P1_M1	Perindopril	Cardiovascular	Antihypertensive
+P1_M3	Morantel tartrate	Infectiology	Antihelmintic
+P1_M5	Homatropine hydrobromide (R,S)	Diagnostic	Antispastic
+P1_M7	Nifedipine	Cardiovascular	Antianginal
+P1_M9	Chlorpromazine hydrochloride	Cardiovascular	Antiemetic
+P1_M11	Diphenhydramine hydrochloride	Allergology	Antiemetic
+P1_M13	Minaprine dihydrochloride	Central Nervous System	Anti-Alzheimer
+P1_M15	Miconazole	Infectiology	Antifungal
+P1_M17	Isoxsuprine hydrochloride	Cardiovascular	Vasodilator
+P1_M19	Acebutolol hydrochloride	Cardiovascular	Antianginal
+P1_M21	Tolnaftate	Infectiology	Antifungal
+P1_M23	Fexofenadine HCl	Allergology	Antihistaminic
+P1_O1	Mecamylamine hydrochloride	Cardiovascular	Antihypertensive
+P1_O3	Todralazine hydrochloride	Cardiovascular	Antihypertensive
+P1_O5	Imipramine hydrochloride	Central Nervous System	Antidepressant
+P1_O7	Sulindac	Central Nervous System	Analgesic
+P1_O9	Amitryptiline hydrochloride	Central Nervous System	Antidepressant
+P1_O11	Adiphenine hydrochloride	Neuromuscular	Antispastic
+P1_O13	Dibucaine	Neuromuscular	Local anesthetic
+P1_O15	Prednisone	Dermatology	Anti-inflammatory
+P1_O17	Thioridazine hydrochloride	Central Nervous System	Antipsychotic
+P1_O19	Diphemanil methylsulfate	Gastroenterology	Antispastic
+P1_O21	Trimethobenzamide hydrochloride	Central Nervous System	Antiemetic
+P1_O23	Procarbazine hydrochloride	Oncology	Antineoplastic
+P1_A2	Penbutolol sulfate	Cardiovascular	Antianginal
+P1_A4	Metronidazole	Infectiology	Antiamebic
+P1_A6	Fulvestrant	Endocrinology	Antineoplastic
+P1_A8	Edrophonium chloride	Diagnostic	Anti-fatigue
+P1_A10	Moroxidine hydrochloride	Infectiology	Antiviral
+P1_A12	Baclofen (R,S)	Central Nervous System	Antispastic
+P1_A14	Acyclovir	Metabolism	Antiviral
+P1_A16	Diazoxide	Cardiovascular	Antidiuretic
+P1_A18	Amidopyrine	Central Nervous System	Analgesic
+P1_A20	Busulfan	Oncology	Antineoplastic
+P1_A22	Pindolol	Cardiovascular	Antianginal
+P1_A24	Prednicarbate	Metabolism	Anti-Inflammatory
+P1_C2	Pivmecillinam hydrochloride	Metabolism	Antibacterial
+P1_C4	Khellin	Cardiovascular	Antispastic
+P1_C6	Zimelidine dihydrochloride monohydrate	Central Nervous System	Antidepressant
+P1_C8	Azacyclonol	Central Nervous System	Antipsychotic
+P1_C10	Azathioprine	Oncology	Antineoplastic
+P1_C12	Lynestrenol	Endocrinology	Contraceptive
+P1_C14	Guanabenz acetate	Central Nervous System	Antihypertensive
+P1_C16	Disulfiram	Metabolism	Antabuse effect
+P1_C18	Acetylsalicylsalicylic acid	Central Nervous System	Analgesic
+P1_C20	Mianserine hydrochloride	Cardiovascular	Antidepressant
+P1_C22	Nocodazole	Oncology	Antineoplastic
+P1_C24	Levopropoxyphene napsylate	Central Nervous System	Analgesic
+P1_E2	Naftifine hydrochloride	Infectiology	Antifungal
+P1_E4	R(-) Apomorphine hydrochloride hemihydrate	Central Nervous System	Antiparkinsonian
+P1_E6	Amoxapine	Central Nervous System	Antidepressant
+P1_E8	Cyproheptadine hydrochloride	Allergology	Antihistaminic
+P1_E10	Famotidine	Gastroenterology	Antiulcer
+P1_E12	Danazol	Endocrinology	Anabolic
+P1_E14	Nicorandil	Cardiovascular	Antianginal
+P1_E16	Pioglitazone	Endocrinology	Hyperglycemia drug
+P1_E18	Nomifensine maleate	Central Nervous System	Antidepressant
+P1_E20	Dizocilpine maleate	Central Nervous System	Anticonvulsant
+P1_E22	Oxandrolone	Endocrinology	Anabolic steroid
+P1_E24	Meprylcaine hydrochloride 	Neuromuscular	Local anesthetic
+P1_G2	Bethanechol chloride	Metabolism	Cholinergic agent
+P1_G4	Naloxone hydrochloride	Central Nervous System	Opioate antidote
+P1_G6	Metolazone	Cardiovascular	Antihypertensive
+P1_G8	Ciprofloxacin hydrochloride monohydrate	Infectiology	Antibacterial
+P1_G10	Ampicillin trihydrate	Infectiology	Antibacterial
+P1_G12	Haloperidol	Central Nervous System	Antiemetic
+P1_G14	Naltrexone hydrochloride dihydrate	Central Nervous System	Analgesic
+P1_G16	Chlorpheniramine maleate	Allergology	Antihistaminic
+P1_G18	Nalbuphine hydrochloride	Central Nervous System	Analgesic
+P1_G20	Picotamide monohydrate	Hematology	Anticoagulant
+P1_G22	Triamcinolone	Endocrinology	Anti-inflammatory
+P1_G24	Cyproterone acetate	Endocrinology	Antineoplastic
+P1_I2	Isosorbide mononitrate	Cardiovascular	Antianginal
+P1_I4	Bromocryptine mesylate	Central Nervous System	Antiparkinsonian
+P1_I6	Amfepramone hydrochloride	Central Nervous System	Appetite suppresant
+P1_I8	Dehydrocholic acid	Gastroenterology	Choleretic
+P1_I10	Tioconazole	Infectiology	Antifungal
+P1_I12	Perphenazine	Central Nervous System	Antiemetic
+P1_I14	Mefloquine hydrochloride	Infectiology	Antimalarial
+P1_I16	Isoconazole	Infectiology	Antibacterial
+P1_I18	Spironolactone	Endocrinology	Diuretic
+P1_I20	Pirenzepine dihydrochloride	Gastroenterology	Antiulcer
+P1_I22	Dexamethasone acetate	Endocrinology	Anti-inflammatory
+P1_I24	Levalbuterol hydrochloride	Respiratory	Antiasthmatic
+P1_K2	Misoprostol	Metabolism	Antiulcer
+P1_K4	Glipizide	Endocrinology	Antidiabetic
+P1_K6	Loxapine succinate	Central Nervous System	Antipsychotic
+P1_K8	Hydroxyzine dihydrochloride	Allergology	Antiemetic
+P1_K10	Diltiazem hydrochloride	Cardiovascular	Antianginal
+P1_K12	Methotrexate	Oncology	Antineoplastic
+P1_K14	Astemizole	Allergology	Antihistaminic
+P1_K16	Clindamycin hydrochloride	Infectiology	Antibacterial
+P1_K18	Terfenadine	Allergology	Antihistaminic
+P1_K20	Cefotaxime sodium salt	Infectiology	Antibacterial
+P1_K22	Tetracycline hydrochloride	Infectiology	Antibacterial
+P1_K24	Sulfadoxine	Infectiology	Antibacterial
+P1_M2	4-aminosalicylic acid	Infectiology	Antibacterial
+P1_M4	Verapamil hydrochloride	Cardiovascular	Antihypertensive
+P1_M6	Dipyridamole	Cardiovascular	Anticoagulant
+P1_M8	Chlorhexidine	Infectiology	Antibacterial
+P1_M10	Loperamide hydrochloride	Gastroenterology	Antidiarrheal
+P1_M12	Chlortetracycline hydrochloride	Infectiology	Antiamebic
+P1_M14	Tamoxifen citrate	Endocrinology	Antineoplastic
+P1_M16	Nicergoline	Cardiovascular	Anti-ischemic
+P1_M18	Canrenoic acid potassium salt	Endocrinology	Antihypertensive
+P1_M20	Thioproperazine dimesylate	Central Nervous System	Antiemetic
+P1_M22	Dihydroergotamine tartrate	Central Nervous System	Antimigraine
+P1_M24	Clonixin Lysinate	Central Nervous System	Analgesic
+P1_O2	Viomycin sulfate	Infectiology	Antibacterial
+P1_O4	Erythromycin	Infectiology	Antibacterial
+P1_O6	Chloroxine	Dermatology	Antibacterial
+P1_O8	Didanosine	Infectiology	Antiviral
+P1_O10	Josamycin	Infectiology	Antibacterial
+P1_O12	Paclitaxel	Oncology	Antineoplastic
+P1_O14	Ivermectin	Infectiology	Antihelmintic
+P1_O16	Gallamine triethiodide	Neuromuscular	Muscle relaxant
+P1_O18	Neomycin sulfate	Infectiology	Antibacterial
+P1_O20	Dihydrostreptomycin sulfate	Infectiology	Antibacterial
+P1_O22	Gentamicine sulfate	Infectiology	Antibacterial
+P1_O24	Saquinavir mesylate	Immunology	Antiviral
+P1_B1	Sertaconazole nitrate	Metabolism	Antibacterial
+P1_B3	Isoniazid	Infectiology	Antibacterial
+P1_B5	Pentylenetetrazole	Central Nervous System	Analeptic
+P1_B7	Chlorzoxazone	Central Nervous System	Anticonvulsant
+P1_B9	Ornidazole	Infectiology	Antibacterial
+P1_B11	Ethosuximide	Central Nervous System	Anticonvulsant
+P1_B13	Mafenide hydrochloride	Infectiology	Antibacterial
+P1_B15	Riluzole hydrochloride	Central Nervous System	Antispastic
+P1_B17	Nitrofurantoin	Infectiology	Antibacterial
+P1_B19	Hydralazine hydrochloride	Cardiovascular	Antihypertensive
+P1_B21	Phenelzine sulfate	Central Nervous System	Antidepressant
+P1_B23	Repaglinide	Endocrinology	Antidiabetic
+P1_D1	Piperidolate hydrochloride	Neuromuscular	Antispastic
+P1_D3	Tranexamic acid	Hematology	Hemostatic
+P1_D5	Etofylline	Cardiovascular	Antispastic
+P1_D7	Tranylcypromine hydrochloride	Central Nervous System	Antidepressant
+P1_D9	Alverine citrate salt	Neuromuscular	Antispastic
+P1_D11	Aceclofenac	Central Nervous System	Analgesic
+P1_D13	Iproniazide phosphate	Cardiovascular	Antidepressant
+P1_D15	Sulfamethoxazole	Infectiology	Antibacterial
+P1_D17	Mephenesin	Central Nervous System	Anticonvulsant
+P1_D19	Phenformin hydrochloride	Endocrinology	Antidiabetic
+P1_D21	Flutamide	Oncology	Antineoplastic
+P1_D23	Trifluridine	Metabolism	Antiviral
+P1_F1	Milrinone	Cardiovascular	Vasodilator
+P1_F3	Ampyrone	Central Nervous System	Analgesic
+P1_F5	Levamisole hydrochloride	Immunology	Antihelmintic
+P1_F7	Pargyline hydrochloride	Cardiovascular	Antidepressant
+P1_F9	Methocarbamol	Central Nervous System	Analgesic
+P1_F11	Aztreonam	Infectiology	Antibacterial
+P1_F13	Cloxacillin sodium salt	Infectiology	Antibacterial
+P1_F15	Catharanthine	Oncology	Antineoplastic
+P1_F17	Pentolinium bitartrate	Cardiovascular	Antihypertensive
+P1_F19	Aminopurine, 6-benzyl	Endocrinology	Synthetic cytokinin 
+P1_F21	Tolbutamide	Endocrinology	Antidiabetic
+P1_F23	Methantheline bromide	Neuromuscular	Antispastic
+P1_H1	(R)-Propranolol hydrochloride	Cardiovascular	Antianginal
+P1_H3	Midodrine hydrochloride	Cardiovascular	Antihypertensive
+P1_H5	Thalidomide	Central Nervous System	Hypnotic
+P1_H7	Oxolinic acid	Metabolism	Antibacterial
+P1_H9	Nimesulide	Metabolism	Anti-inflammatory
+P1_H11	Asenapine maleate	Central Nervous System	Antipsychotic
+P1_H13	Pentoxifylline	Cardiovascular	Bronchodilator
+P1_H15	Metaraminol bitartrate	Cardiovascular	Antihypotensive
+P1_H17	Salbutamol	Neuromuscular	Bronchodilator
+P1_H19	Prilocaine hydrochloride	Neuromuscular	Local anesthetic
+P1_H21	Camptothecine (S,+)	Oncology	Antineoplastic
+P1_H23	Ciprofibrate	Metabolism	Hypocholesterolemic
+P1_J1	Topiramate	Central Nervous System	Anticonvulsant
+P1_J3	Ranitidine hydrochloride	Gastroenterology	Antiulcer
+P1_J5	Tiratricol, 3,3,5-triiodothyroacetic acid	Endocrinology	Antihypothyroid
+P1_J7	Flufenamic acid	Central Nervous System	Analgesic
+P1_J9	Flumequine	Infectiology	Antibacterial
+P1_J11	Tolfenamic acid	Central Nervous System	Analgesic
+P1_J13	Meclofenamic acid sodium salt monohydrate	Central Nervous System	Anti-inflammatory
+P1_J15	Tibolone	Endocrinology	Female hormone replacement
+P1_J17	Trimethoprim 	Infectiology	Antibacterial
+P1_J19	Metoclopramide monohydrochloride	Central Nervous System	Antiemetic
+P1_J21	Fenbendazole	Infectiology	Antihelmintic
+P1_J23	D-cycloserine	Infectiology	Antibacterial
+P1_L1	Cyclopentolate hydrochloride	Metabolism	Anticholenergic of the eye
+P1_L3	Piroxicam	Central Nervous System	Analgesic
+P1_L5	Pyrantel tartrate	Infectiology	Antihelmintic
+P1_L7	Fenspiride hydrochloride	Respiratory	Antitussive
+P1_L9	Gemfibrozil	Metabolism	Hypocholesterolemic
+P1_L11	Mefexamide hydrochloride	Central Nervous System	CNS Stimulant
+P1_L13	Tiapride hydrochloride	Central Nervous System	Antiemetic
+P1_L15	Mebendazole	Infectiology	Antihelmintic
+P1_L17	Fenbufen	Central Nervous System	Analgesic
+P1_L19	Ketoprofen	Central Nervous System	Analgesic
+P1_L21	Indapamide	Metabolism	Antihypertensive
+P1_L23	Estriol	Endocrinology	Estrogen
+P1_N1	Verteporfin	Ophthalmology	Ocular antineovascular agent
+P1_N3	Norfloxacin	Infectiology	Antibacterial
+P1_N5	Antimycin A	Infectiology	Antibacterial
+P1_N7	Xylometazoline hydrochloride	Cardiovascular	Nasal Decongestant
+P1_N9	Oxymetazoline hydrochloride	Respiratory	Nasal Decongestant
+P1_N11	Nifenazone	Central Nervous System	Analgesic
+P1_N13	Griseofulvin	Infectiology	Antifungal
+P1_N15	Clemizole hydrochloride	Allergology	Antibacterial
+P1_N17	Tropicamide	Neuromuscular	Mydriatic
+P1_N19	Nefopam hydrochloride	Central Nervous System	Analgesic
+P1_N21	Phentolamine hydrochloride	Cardiovascular	Antihypertensive
+P1_N23	Meropenem	Infectiology	Antibacterial
+P1_P1	Ronidazole	Infectiology	Antibacterial
+P1_P3	Etodolac	Central Nervous System	Analgesic
+P1_P5	Scopolamin-N-oxide hydrobromide	Neuromuscular	Antispastic
+P1_P7	Hyoscyamine (L) 	Central Nervous System	Antiemetic
+P1_P9	Chlorphensin carbamate	Central Nervous System	Muscle relaxant
+P1_P11	Fadrozole hydrochloride	Oncology	Antineoplastic
+P1_P13	Dilazep dihydrochloride	Cardiovascular	Antiplatelet
+P1_P15	Ofloxacin	Infectiology	Antibacterial
+P1_P17	Lomefloxacin hydrochloride	Infectiology	Antibacterial
+P1_P19	Orphenadrine hydrochloride	Allergology	Antihistaminic
+P1_P21	Proglumide	Gastroenterology	Antiulcer
+P1_P23	Dorzolamide hydrochloride	Cardiovascular	Antiglaucoma
+P1_B2	Piretanide	Cardiovascular	Antihypertensive
+P1_B4	Mexiletine hydrochloride	Cardiovascular	Antiarrhythmic
+P1_B6	Flavoxate hydrochloride	Metabolism	Antispastic
+P1_B8	Bufexamac	Central Nervous System	Analgesic
+P1_B10	Glutethimide, para-amino	Oncology	Antineoplastic
+P1_B12	Dropropizine (R,S)	Respiratory	Antitussive
+P1_B14	Pinacidil	Cardiovascular	Antihypertensive
+P1_B16	Albendazole	Metabolism	Antihelmintic
+P1_B18	Clonidine hydrochloride	Cardiovascular	Analgesic
+P1_B20	Bupropion hydrochloride	Central Nervous System	Antidepressant
+P1_B22	Alprenolol hydrochloride	Cardiovascular	Antianginal
+P1_B24	Piperacetazine	Central Nervous System	Antipsychotic
+P1_D2	Oxprenolol hydrochloride	Cardiovascular	Antianginal
+P1_D4	Chlorothiazide	Metabolism	Antihypertensive
+P1_D6	Diphenidol hydrochloride	Central Nervous System	Antiemetic
+P1_D8	Norethindrone	Endocrinology	Contraceptive
+P1_D10	Nortriptyline hydrochloride	Central Nervous System	Antidepressant
+P1_D12	Niflumic acid	Central Nervous System	Analgesic
+P1_D14	Isotretinoin	Dermatology	Keratolytic
+P1_D16	Retinoic acid 	Dermatology	Keratolytic
+P1_D18	Antazoline hydrochloride	Allergology	Antihistaminic
+P1_D20	Ethacrynic acid	Metabolism	Diuretic
+P1_D22	Praziquantel	Infectiology	Antihelmintic
+P1_D24	Ondansetron Hydrochloride	Central Nervous System	Antianemic
+P1_F2	Ticarcillin sodium	Infectiology	Antibacterial
+P1_F4	Ethisterone	Endocrinology	Contraceptive
+P1_F6	Triprolidine hydrochloride	Allergology	Antihistaminic
+P1_F8	Doxepin hydrochloride	Allergology	Anticonvulsant
+P1_F10	Dyclonine hydrochloride	Neuromuscular	Local anesthetic
+P1_F12	Dimenhydrinate	Allergology	Antiemetic
+P1_F14	Disopyramide	Cardiovascular	Antiarrhythmic
+P1_F16	Clotrimazole	Infectiology	Antibacterial
+P1_F18	Vinpocetine	Cardiovascular	CNS Stimulant
+P1_F20	Clomipramine hydrochloride	Central Nervous System	Antidepressant
+P1_F22	Fendiline hydrochloride	Cardiovascular	Antianginal
+P1_F24	Thiethylperazine dimalate 	Central Nervous System	Antiemetic
+P1_H2	Formestane	Endocrinology	Antineoplastic
+P1_H4	Vincamine	Central Nervous System	CNS Stimulant
+P1_H6	Indomethacin	Central Nervous System	Analgesic
+P1_H8	Cortisone	Endocrinology	Anti-inflammatory
+P1_H10	Prednisolone	Endocrinology	Anti-inflammatory
+P1_H12	Fenofibrate	Metabolism	Hypocholesterolemic
+P1_H14	Bumetanide	Metabolism	Diuretic
+P1_H16	Labetalol hydrochloride	Cardiovascular	Antihypotensive
+P1_H18	Cinnarizine	Allergology	Antihistaminic
+P1_H20	Methylprednisolone, 6-alpha	Endocrinology	Anti-inflammatory
+P1_H22	Quinidine hydrochloride monohydrate	Cardiovascular	Antiarrhythmic
+P1_H24	Benzylpenicillin sodium	Infectiology	Antibacterial
+P1_J2	2-Chloropyrazine	Cardiovascular	Antiarrythmetic 
+P1_J4	Fludrocortisone acetate	Dermatology	Anti-inflammatory
+P1_J6	Fenoterol hydrobromide	Neuromuscular	Bronchodilator
+P1_J8	Homochlorcyclizine dihydrochloride	Allergology	Antihistaminic
+P1_J10	Diethylcarbamazine citrate	Infectiology	Antihelmintic
+P1_J12	Chenodiol	Gastroenterology	Cholagogue
+P1_J14	Perhexiline maleate	Cardiovascular	Antianginal
+P1_J16	Oxybutynin chloride	Neuromuscular	Antispastic
+P1_J18	Spiperone	Central Nervous System	Antipsychotic
+P1_J20	Pyrilamine maleate	Allergology	Antihistaminic
+P1_J22	Sulfinpyrazone	Hematology	Antiplatelet
+P1_J24	(+,-)-Synephrine	Cardiovascular	Vasoconstrictor
+P1_L2	(-)-Isoproterenol hydrochloride	Cardiovascular	Bronchodilator
+P1_L4	Dantrolene sodium salt 	Neuromuscular	Muscle relaxant
+P1_L6	Trazodone hydrochloride	Central Nervous System	Antidepressant
+P1_L8	Glafenine hydrochloride	Metabolism	Analgesic
+P1_L10	Pimethixene maleate	Allergology	Antihistaminic
+P1_L12	Pergolide mesylate	Central Nervous System	Antiparkinsonian
+P1_L14	Acemetacin	Metabolism	Anti-inflammatory
+P1_L16	Benzydamine hydrochloride	Central Nervous System	Analgesic
+P1_L18	Fipexide hydrochloride	Central Nervous System	Anti-fatigue
+P1_L20	Mifepristone	Endocrinology	Abortifacient
+P1_L22	Diperodon hydrochloride	Neuromuscular	Local anesthetic
+P1_L24	Sarafloxacin	Infectiology	Antibacterial
+P1_N2	Ramipril	Cardiovascular	Antihypertensive
+P1_N4	Lisinopril	Cardiovascular	Antihypertensive
+P1_N6	Lincomycin hydrochloride	Infectiology	Antibacterial
+P1_N8	Telenzepine dihydrochloride	Gastroenterology	Antiulcer
+P1_N10	Econazole nitrate	Infectiology	Antifungal
+P1_N12	Bupivacaine hydrochloride 	Neuromuscular	Local anesthetic
+P1_N14	Clemastine fumarate	Allergology	Antiemetic
+P1_N16	Oxytetracycline dihydrate	Infectiology	Antibacterial
+P1_N18	Pimozide	Central Nervous System	Antipsychotic
+P1_N20	Amodiaquin dihydrochloride dihydrate	Infectiology	Anti-inflammatory
+P1_N22	Mebeverine hydrochloride	Neuromuscular	Antispastic
+P1_N24	Mephenytoin	Central Nervous System	Anticonvulsant
+P1_P2	Azaperone	Central Nervous System	Antipsychotic
+P1_P4	Ifenprodil tartrate	Cardiovascular	Vasodilator
+P1_P6	Flunarizine dihydrochloride	Central Nervous System	Anticonvulsant
+P1_P8	Trifluoperazine dihydrochloride	Central Nervous System	Antiemetic
+P1_P10	Enalapril maleate	Cardiovascular	Antihypertensive
+P1_P12	Minocycline hydrochloride	Infectiology	Antibacterial
+P1_P14	Glibenclamide	Endocrinology	Antidiabetic
+P1_P16	Guanethidine sulfate 	Central Nervous System	Antihypertensive
+P1_P18	Quinacrine dihydrochloride dihydrate	Infectiology	Antihelmintic
+P1_P20	Clofilium tosylate	Cardiovascular	Antiarrhythmic
+P1_P22	Fluphenazine dihydrochloride	Central Nervous System	Antipsychotic
+P1_P24	Cefepime hydrochloride	Infectiology	Antibacterial
+P2_A1	Oxyphenbutazone	Metabolism	Anti-inflammatory
+P2_A3	Streptomycin sulfate	Infectiology	Antibacterial
+P2_A5	Alfuzosin hydrochloride	Cardiovascular	Vasodilator
+P2_A7	Chlorpropamide	Endocrinology	Antidiabetic
+P2_A9	Phenylpropanolamine hydrochloride	Respiratory	Antihypotensive
+P2_A11	Ascorbic acid	Metabolism	Anti-oxidant
+P2_A13	Methyldopa (L,-)	Cardiovascular	Antihypertensive
+P2_A15	Cefoperazone dihydrate	Infectiology	Antibacterial
+P2_A17	Zoxazolamine	Metabolism	Antigout
+P2_A19	Tacrine hydrochloride	Central Nervous System	CNS Stimulant
+P2_A21	Bisoprolol fumarate	Cardiovascular	Antianginal
+P2_A23	Quinethazone	Cardiovascular	Antihypertensive
+P2_C1	Propoxycaine hydrochloride	Central Nervous System	Anesthetic
+P2_C3	Tremorine dihydrochloride	Central Nervous System	CNS Stimulant
+P2_C5	Practolol	Cardiovascular	Antianginal
+P2_C7	Zidovudine, AZT	Infectiology	Antiviral
+P2_C9	Sulfisoxazole	Infectiology	Antibacterial
+P2_C11	Zaprinast	Cardiovascular	Erectile dysfunction treatment
+P2_C13	Chlormezanone	Central Nervous System	Anxiolytic
+P2_C15	Procainamide hydrochloride	Cardiovascular	Antiarrhythmic
+P2_C17	N6-methyladenosine	Oncology	Antineoplastic
+P2_C19	Guanfacine hydrochloride	Cardiovascular	Antihypertensive
+P2_C21	Domperidone	Central Nervous System	Antiemetic
+P2_C23	Oxaprozin	Central Nervous System	Analgesic
+P2_E1	Mesalamine	Metabolism	Anti-inflammatory
+P2_E3	Furosemide	Metabolism	Antihypertensive
+P2_E5	Methapyrilene hydrochloride	Allergology	Antihistaminic
+P2_E7	Desipramine hydrochloride	Central Nervous System	Antidepressant
+P2_E9	Clorgyline hydrochloride	Central Nervous System	Antidepressant
+P2_E11	Clenbuterol hydrochloride	Neuromuscular	Antiasthmatic
+P2_E13	Maprotiline hydrochloride	Central Nervous System	Antidepressant
+P2_E15	Thioguanosine	Metabolism	Antineoplastic
+P2_E17	Chlorprothixene hydrochloride	Central Nervous System	Antiemetic
+P2_E19	Ritodrine hydrochloride	Neuromuscular	Tocolytic
+P2_E21	Clozapine	Central Nervous System	Antiparkinsonian
+P2_E23	Vorinostat	Oncology	Antineoplastic
+P2_G1	Chlorambucil	Oncology	Antineoplastic
+P2_G3	Chlorthalidone	Metabolism	Antihypertensive
+P2_G5	Dobutamine hydrochloride	Cardiovascular	Analeptic
+P2_G7	Moclobemide	Central Nervous System	Antidepressant
+P2_G9	Clopamide	Metabolism	Antihypertensive
+P2_G11	Hycanthone	Infectiology	Antihelmintic
+P2_G13	Adenosine 5-monophosphate monohydrate	Cardiovascular	Antiarrhythmic
+P2_G15	Amoxicillin	Metabolism	Antibacterial
+P2_G17	Pemirolast potassium	Ophthalmology	Antiallergenic
+P2_G19	Dextromethorphan hydrobromide monohydrate	Central Nervous System	Antitussive
+P2_G21	Droperidol	Central Nervous System	Antipsychotic
+P2_G23	Methiazole	Infectiology	Antihelmintic
+P2_I1	(S)-(-)-Cycloserine	Infectiology	Antibacterial
+P2_I3	Bambuterol hydrochloride	Neuromuscular	Bronchodilator
+P2_I5	Betamethasone	Endocrinology	Anti-inflammatory
+P2_I7	Colchicine	Metabolism	Antigout
+P2_I9	Metergoline	Central Nervous System	Antiprolactin
+P2_I11	Brinzolamide	Metabolism	Antiglaucoma
+P2_I13	Ambroxol hydrochloride	Respiratory	Expectorant
+P2_I15	Benfluorex hydrochloride	Central Nervous System	Anorectic
+P2_I17	Bepridil hydrochloride 	Cardiovascular	Antianginal
+P2_I19	Meloxicam	Metabolism	Anti-inflammatory
+P2_I21	Benzbromarone	Cardiovascular	Antianginal
+P2_I23	Homosalate	Dermatology	Radioprotectant
+P2_K1	Nialamide	Central Nervous System	Antidepressant
+P2_K3	Ketotifen fumarate	Allergology	Antihistaminic
+P2_K5	Debrisoquin sulfate	Cardiovascular	Antihypertensive
+P2_K7	Amethopterin (R,S)	Immunology	Anti-inflammatory
+P2_K9	Methylergometrine maleate	Neuromuscular	Hemostatic
+P2_K11	Methiothepin maleate	Central Nervous System	Antipsychotic
+P2_K13	Clofazimine	Infectiology	Antibacterial
+P2_K15	Nafronyl oxalate	Cardiovascular	Anti-ischemic
+P2_K17	Bezafibrate	Metabolism	Antilipemic
+P2_K19	Nefazodone HCl	Central Nervous System	Antidepressant
+P2_K21	Clebopride maleate	Central Nervous System	Antiemetic
+P2_K23	Toltrazuril	Infectiology	Anticoccidial
+P2_M1	Rifabutin	Infectiology	Antibacterial
+P2_M3	Lidoflazine	Cardiovascular	Antianginal
+P2_M5	Betaxolol hydrochloride	Cardiovascular	Antiglaucoma
+P2_M7	Nicardipine hydrochloride	Cardiovascular	Antianginal
+P2_M9	Probucol	Metabolism	Antilipemic
+P2_M11	Mitoxantrone dihydrochloride	Oncology	Antineoplastic
+P2_M13	GBR 12909 dihydrochloride	Central Nervous System	Antidepressant
+P2_M15	Carbetapentane citrate	Central Nervous System	Antispastic
+P2_M17	Dequalinium dichloride	Infectiology	Antibacterial
+P2_M19	Ketoconazole	Infectiology	Antifungal
+P2_M21	Fusidic acid sodium salt	Infectiology	Antibacterial
+P2_M23	Parbendazole	Infectiology	Antihelmintic
+P2_O1	Clocortolone pivalate	Endocrinology	Anti-inflammatory
+P2_O3	Terbutaline hemisulfate	Respiratory	Antiasthmatic
+P2_O5	Ketanserin tartrate hydrate	Cardiovascular	Antihypertensive
+P2_O7	Hemicholinium bromide	Neuromuscular	Curarizing
+P2_O9	Kanamycin A sulfate	Infectiology	Antibacterial
+P2_O11	Amikacin hydrate	Infectiology	Antibacterial
+P2_O13	Etoposide	Oncology	Antineoplastic
+P2_O15	Clomiphene citrate (Z,E)	Endocrinology	Ovulation stimulant
+P2_O17	Oxantel pamoate	Infectiology	Antihelmintic
+P2_O19	Prochlorperazine dimaleate	Central Nervous System	Antiemetic
+P2_O21	Hesperidin 	Oncology	Anti-haemorrhoids
+P2_O23	Nadifloxacin	Infectiology	Antibacterial
+P2_A2	Buspirone hydrochloride	Central Nervous System	Antianxiety agent
+P2_A4	Testosterone propionate	Endocrinology	Anabolic
+P2_A6	Haloprogin	Central Nervous System	Anesthetic
+P2_A8	Thyroxine (L)	Endocrinology	Antihypothyroid
+P2_A10	Idebenone	Oncology	Antineoplastic
+P2_A12	Pepstatin A	Infectiology	Antiviral
+P2_A14	Morpholinoethylamino-3-benzocyclohepta-(5,6-c)-pyridazine dihydrochloride	Central Nervous System	Antidepressant, Muscarinic agonist
+P2_A16	Adamantamine fumarate	Infectiology	Antiviral
+P2_A18	Butoconazole nitrate	Infectiology	Antibacterial
+P2_A20	Amiodarone hydrochloride	Cardiovascular	Antianginal
+P2_A22	Amphotericin B	Infectiology	Antibacterial
+P2_A24	Anastrozole	Oncology	Antineoplastic
+P2_C2	Acetylcysteine	Metabolism	Mucolytic
+P2_C4	Androsterone	Endocrinology	Anabolic
+P2_C6	Amifostine	Diagnostic	Detoxifying agent, antineoplastic treatment
+P2_C8	Carbarsone	Infectiology	Antiamebic
+P2_C10	Amlodipine	Cardiovascular	Antihypertensive
+P2_C12	Modafinil	Central Nervous System	CNS Stimulant
+P2_C14	Bacampicillin hydrochloride	Infectiology	Antibacterial
+P2_C16	Lamivudine	Infectiology	Antiviral
+P2_C18	Biotin	Metabolism	Vitamin B7
+P2_C20	Bisacodyl	Gastroenterology	Laxative
+P2_C22	Erlotinib	Oncology	Antineoplastic
+P2_C24	Melengestrol acetate	Endocrinology	Antiviral
+P2_E2	Famciclovir	Infectiology	Antiplatelet
+P2_E4	Suloctidil	Neuromuscular	Vasodilator
+P2_E6	Zotepine	Central Nervous System	Analgesic
+P2_E8	Carisoprodol	Central Nervous System	Antipyretic
+P2_E10	Cephalosporanic acid, 7-amino	Infectiology	Antibiotic
+P2_E12	Chicago sky blue 6B	Central Nervous System	Vasodilator
+P2_E14	Buflomedil hydrochloride	Cardiovascular	Antidepressant
+P2_E16	Dibenzepine hydrochloride	Central Nervous System	Antiulcer
+P2_E18	Roxatidine Acetate HCl	Gastroenterology	Antiviral
+P2_E20	Valacyclovir hydrochloride	Infectiology	Antiviral, mimics nucleoside
+P2_E22	Cisapride	Gastroenterology	Antineoplastic
+P2_E24	Dopamine hydrochloride	Cardiovascular	Antihypertensive
+P2_G2	5-fluorouracil	Oncology	Antibacterial
+P2_G4	Pefloxacine	Infectiology	Antibacterial
+P2_G6	Corticosterone	Endocrinology	Immunosuppressant
+P2_G8	Cyanocobalamin	Metabolism	Antibacterial
+P2_G10	Cefadroxil	Infectiology	Antibacterial
+P2_G12	Cyclosporin A	Immunology	Cardiotonic
+P2_G14	Digitoxigenin	Cardiovascular	Cardiotonic
+P2_G16	Digoxin	Cardiovascular	Antibacterial
+P2_G18	Doxorubicin hydrochloride	Infectiology	Antineoplastic
+P2_G20	Carbimazole	Metabolism	Anabolic
+P2_G22	Epiandrosterone	Endocrinology	Antilipemic
+P2_G24	Mesna	Oncology	Chemoprotectant
+P2_I2	Clofibrate	Metabolism	Antigonadotropin
+P2_I4	Estradiol-17 beta	Endocrinology	Antitussive
+P2_I6	Clobutinol hydrochloride	Central Nervous System	CNS Stimulant
+P2_I8	Gabazine bromide	Central Nervous System	Anticonvulsant
+P2_I10	Oxcarbazepine	Central Nervous System	Muscle relaxant
+P2_I12	Cyclobenzaprine hydrochloride	Neuromuscular	Antiglaucoma
+P2_I14	Carteolol hydrochloride	Cardiovascular	Antihypertensive
+P2_I16	Hydrocortisone base	Endocrinology	Anti-Alzheimer
+P2_I18	Hydroxytacrine maleate (R,S)	Central Nervous System	Antiglaucoma
+P2_I20	Pilocarpine nitrate	Ophthalmology	Antibacterial
+P2_I22	Dicloxacillin sodium salt hydrate	Infectiology	Antineoplastic
+P2_I24	Cyclophosphamide	Immunology	Antineoplastic
+P2_K2	Topotecan	Oncology	Antiemetic
+P2_K4	Alizapride HCl	Central Nervous System	Antiemetic
+P2_K6	Stanozolol	Endocrinology	Antipsoriatic
+P2_K8	Calcipotriene	Dermatology	Topical antipsoriatic
+P2_K10	Linezolid	Infectiology	Antibacterial
+P2_K12	Mebhydroline 1,5-naphtalenedisulfonate	Allergology	Antibacterial
+P2_K14	Meclocycline sulfosalicylate	Infectiology	Topical antibiotic
+P2_K16	Meclozine dihydrochloride	Allergology	Antihistaminic
+P2_K18	Melatonin	Central Nervous System	Anti-oxidant
+P2_K20	Butalbital	Central Nervous System	Sedative
+P2_K22	Dinoprost trometamol	Endocrinology	Antibacterial
+P2_K24	Atorvastatin	Metabolism	Cardiovascular, HMG CoA inhibitor
+P2_M2	Gatifloxacin	Infectiology	Antiemetic
+P2_M4	Tropisetron HCl	Central Nervous System	Antibacterial
+P2_M6	Cefixime	Infectiology	Antibacterial
+P2_M8	Metrizamide	Diagnostic	Antipsychotic
+P2_M10	Quetiapine hemifumarate	Central Nervous System	Antibacterial
+P2_M12	Tosufloxacin hydrochloride	Infectiology	Antibacterial
+P2_M14	Efavirenz	Infectiology	Antiviral
+P2_M16	Rifapentine	Infectiology	Tuberculosis antibacterial
+P2_M18	Neostigmine bromide	Diagnostic	Antihelmintic
+P2_M20	Niridazole	Infectiology	Antiparasitic
+P2_M22	Ceforanide	Infectiology	Antineoplastic
+P2_M24	Bosentan	Cardiovascular	Vasodilator
+P2_O2	Imatinib	Oncology	Antineoplastic
+P2_O4	Vatalanib	Oncology	Angiogenesis inhibitor
+P2_O6	Itopride	Metabolism	Antibacterial
+P2_O8	Cefotetan	Infectiology	Antibacterial
+P2_O10	Fentiazac	Metabolism	Antihistaminic
+P2_O12	Brompheniramine maleate	Allergology	Antipruritic
+P2_O14	Primaquine diphosphate	Infectiology	Progestogen
+P2_O16	Progesterone	Endocrinology	Antianginal
+P2_O18	Felodipine	Neuromuscular	Antihypertensive
+P2_O20	Raclopride	Central Nervous System	Antihelmintic
+P2_O22	Closantel	Infectiology	Antihelmintic
+P2_O24	Moxifloxacin	Infectiology	Antibacterial
+P2_B1	Doxycycline hydrochloride	Metabolism	Antibacterial
+P2_B3	Serotonin hydrochloride	Central Nervous System	CNS Stimulant
+P2_B5	Cefotiam hydrochloride	Infectiology	Antibacterial
+P2_B7	Rofecoxib	Metabolism	Anti-inflammatory
+P2_B9	Benperidol	Central Nervous System	Antipsychotic
+P2_B11	Cefaclor hydrate	Infectiology	Antibacterial
+P2_B13	Colistin sulfate	Infectiology	Antibacterial
+P2_B15	Daunorubicin hydrochloride	Infectiology	Antibacterial
+P2_B17	Dosulepin hydrochloride	Central Nervous System	Antidepressant
+P2_B19	Ceftazidime pentahydrate	Infectiology	Antibacterial
+P2_B21	Iobenguane sulfate	Oncology	Antineoplastic
+P2_B23	Sulbactam	Infectiology	Antibacterial
+P2_D1	Bromhexine hydrochloride	Respiratory	Expectorant
+P2_D3	Metixene hydrochloride	Central Nervous System	Antiparkinsonian
+P2_D5	Nitrofural	Infectiology	Antibacterial
+P2_D7	Omeprazole	Gastroenterology	Antiulcer
+P2_D9	Propylthiouracil	Metabolism	Antihyperthyroid
+P2_D11	Terconazole	Infectiology	Antifungal
+P2_D13	Tiaprofenic acid	Central Nervous System	Analgesic
+P2_D15	Vancomycin hydrochloride	Infectiology	Antibacterial
+P2_D17	Artemisinin	Infectiology	Antimalarial
+P2_D19	Propafenone hydrochloride	Cardiovascular	Antiarrhythmic
+P2_D21	Ethamivan	Central Nervous System	Analeptic
+P2_D23	Anethole-trithione	Metabolism	Choleretic
+P2_F1	Cefdinir	Infectiology	Antibacterial
+P2_F3	Vigabatrin	Central Nervous System	Anticonvulsant
+P2_F5	Biperiden hydrochloride	Central Nervous System	Antiparkinsonian
+P2_F7	Cetirizine dihydrochloride	Allergology	Antihistaminic
+P2_F9	Etifenin	Diagnostic	Chemosensitizer
+P2_F11	Metaproterenol sulfate, orciprenaline sulfate	Respiratory	Bronchodilator
+P2_F13	Sisomicin sulfate	Infectiology	Antibacterial
+P2_F15	Sibutramine HCl	Central Nervous System	Oral anorexiant
+P2_F17	Acenocoumarol	Hematology	Anticoagulant
+P2_F19	Bromperidol	Central Nervous System	Antipsychotic
+P2_F21	Cyclizine hydrochloride	Allergology	Antiemetic
+P2_F23	Carprofen	Metabolism	Anti-inflammatory
+P2_H1	Mitotane	Endocrinology	Antineoplastic
+P2_H3	Fluoxetine hydrochloride	Central Nervous System	Antidepressant
+P2_H5	Iohexol	Diagnostic	Contrastant
+P2_H7	Norcyclobenzaprine	Gastroenterology	Antiulcer
+P2_H9	Pyrazinamide	Infectiology	Antibacterial
+P2_H11	Trimethadione	Central Nervous System	Anticonvulsant
+P2_H13	Lovastatin	Metabolism	Hypocholesterolemic
+P2_H15	Nystatine	Infectiology	Antifungal
+P2_H17	Budesonide	Endocrinology	Anti-inflammatory
+P2_H19	Imipenem	Infectiology	Antibacterial
+P2_H21	Sulfasalazine	Infectiology	Antibacterial
+P2_H23	Ambrisentan	Cardiovascular	Antihypertensive
+P2_J1	Aripiprazole	Central Nervous System	Antipsychotic
+P2_J3	Lofexidine	Cardiovascular	Antihypertensive
+P2_J5	Thiostrepton	Infectiology	Antibacterial
+P2_J7	Miglitol	Endocrinology	Antidiabetic
+P2_J9	Tiabendazole	Infectiology	Antifungal
+P2_J11	Rifampicin	Infectiology	Antibacterial
+P2_J13	Ethionamide	Infectiology	Antibacterial
+P2_J15	Tenoxicam	Central Nervous System	Analgesic
+P2_J17	Triflusal	Hematology	Anticoagulant
+P2_J19	Mesoridazine besylate	Central Nervous System	Antipsychotic
+P2_J21	Trolox	Metabolism	Anti-oxidant
+P2_J23	Ethinylestradiol	Endocrinology	Contraceptive
+P2_L1	Azithromycin	Infectiology	Antibacterial
+P2_L3	Pirenperone	Central Nervous System	Seratonin receptor antagonist
+P2_L5	Isoquinoline, 6,7-dimethoxy-1-methyl-1,2,3,4-tetrahydro, hydrochloride	Central Nervous System	Nervous system agent
+P2_L7	Phenacetin	Central Nervous System	Analgesic
+P2_L9	Atovaquone	Infectiology	Antimalarial
+P2_L11	Methoxamine hydrochloride	Cardiovascular	Antihypotensive
+P2_L13	(S)-(-)-Atenolol	Cardiovascular	Antianginal
+P2_L15	Piracetam	Central Nervous System	CNS Stimulant
+P2_L17	Phenindione	Hematology	Anticoagulant
+P2_L19	Thiocolchicoside	Central Nervous System	Antispastic
+P2_L21	Clorsulon	Infectiology	Antihelmintic
+P2_L23	Ibudilast	Metabolism	Anti-inflammatory
+P2_N1	Gemcitabine	Oncology	Antineoplastic
+P2_N3	Ciclopirox ethanolamine	Infectiology	Antibacterial
+P2_N5	Probenecid	Metabolism	Antigout
+P2_N7	Betahistine mesylate	Allergology	Vasodilator
+P2_N9	Tobramycin	Infectiology	Antibacterial
+P2_N11	Tetramisole hydrochloride	Immunology	Antihelmintic
+P2_N13	Pregnenolone	Endocrinology	Anabolic
+P2_N15	Molsidomine	Cardiovascular	Antianginal
+P2_N17	Chloroquine diphosphate	Metabolism	Anti-inflammatory
+P2_N19	Trimetazidine dihydrochloride	Cardiovascular	Antianginal
+P2_N21	Parthenolide	Metabolism	Anti-inflammatory
+P2_N23	Olmesartan	Cardiovascular	Antihypertensive
+P2_P1	Formoterol fumarate	Respiratory	Antiasthmatic
+P2_P3	Hexetidine	Infectiology	Antifungal
+P2_P5	Selegiline hydrochloride	Central Nervous System	Antiparkinsonian
+P2_P7	Pentamidine isethionate	Infectiology	Antifungal
+P2_P9	Tolazamide	Metabolism	Antidiabetic
+P2_P11	Nifuroxazide	Infectiology	Antibacterial
+P2_P13	Mirtazapine	Central Nervous System	Antidepressant
+P2_P15	Dirithromycin	Infectiology	Antibacterial
+P2_P17	Gliclazide	Metabolism	Anticoagulant
+P2_P19	DO 897/99	Central Nervous System	Antidepressant
+P2_P21	Prenylamine lactate	Cardiovascular	Antianginal
+P2_P23	Rufloxacin	Infectiology	Antibacterial
+P2_B2	Fleroxacin	Infectiology	Antibacterial
+P2_B4	Ziprasidone Hydrochloride	Central Nervous System	Antipsychotic
+P2_B6	Mevastatin	Cardiovascular	Hypocholesterolemic
+P2_B8	Pyridostigmine iodide	Central Nervous System	Acetylcholine inhibitor
+P2_B10	Pentobarbital	Central Nervous System	Anesthetic
+P2_B12	Atropine sulfate monohydrate	Ophthalmology	Antispastic
+P2_B14	Eserine hemisulfate salt	Central Nervous System	Antiglaucoma
+P2_B16	Itraconazole	Infectiology	Antifungal
+P2_B18	Acarbose	Endocrinology	Antidiabetic
+P2_B20	Entacapone	Central Nervous System	Antiparkinsonian
+P2_B22	Nicotinamide	Dermatology	Skin antinflammatory 
+P2_B24	Clavulanate potassium salt	Infectiology	Antibacterial
+P2_D2	Amcinonide	Metabolism	Anti-inflammatory
+P2_D4	Tetracaïne hydrochloride	Neuromuscular	Local anesthetic
+P2_D6	Mometasone furoate	Endocrinology	Anti-inflammatory
+P2_D8	Troglitazone	Metabolism	Antidiabetic
+P2_D10	Dacarbazine	Oncology	Antineoplastic
+P2_D12	Tenatoprazole	Metabolism	Antiulcer
+P2_D14	Acetopromazine maleate salt	Central Nervous System	Antiemetic
+P2_D16	Escitalopram	Central Nervous System	Antidepressant
+P2_D18	Ropinirole HCl	Central Nervous System	Antiparkinsonian
+P2_D20	Lacidipine	Cardiovascular	Antihypertensive
+P2_D22	Argatroban	Hematology	Anticoagulant
+P2_D24	Caffeine	Central Nervous System	CNS Stimulant
+P2_F2	Celecoxib	Metabolism	Anti-inflammatory
+P2_F4	Reboxetine mesylate	Central Nervous System	Antidepressant
+P2_F6	Camylofine chlorhydrate		Acetylcholine inhibitor
+P2_F8	Papaverine hydrochloride	Cardiovascular	Antispastic
+P2_F10	Yohimbine hydrochloride	Cardiovascular	Erectile dysfunction treatment
+P2_F12	Voriconazole	Infectiology	Antifungal
+P2_F14	Alfacalcidol	Metabolism	Antiosteoporetic
+P2_F16	Cilostazol	Hematology	Anticoagulant
+P2_F18	Galanthamine hydrobromide	Central Nervous System	Analgesic
+P2_F20	Azelastine HCl	Immunology	Antihistaminic
+P2_F22	Etretinate	Dermatology	Antipsoriatic
+P2_F24	Candesartan	Cardiovascular	Antihypertensive
+P2_H2	Triclosan	Infectiology	Antibacterial
+P2_H4	Emedastine	Allergology	Antihistaminic
+P2_H6	Etofenamate	Metabolism	Anti-inflammatory
+P2_H8	Zaleplon	Central Nervous System	Hypnotic
+P2_H10	Diclofenac sodium	Central Nervous System	Anti-inflammatory
+P2_H12	Exemestane	Endocrinology	Antineoplastic
+P2_H14	Fomepizole	Metabolism	Antidote for methanol or ethylene glycol poisoning, inhibits alcohol dehydrogenase
+P2_H16	Temozolomide	Oncology	Antineoplastic
+P2_H18	Xylazine	Central Nervous System	Analgesic
+P2_H20	Celiprolol HCl	Cardiovascular	Antianginal
+P2_H22	Zopiclone	Central Nervous System	Hypnotic
+P2_H24	Enoxacin	Infectiology	Antibacterial
+P2_J2	Fluocinolone acetonide	Metabolism	Anti-inflammatory
+P2_J4	Tranilast	Allergology	Antiallergic
+P2_J6	Tizanidine HCl	Metabolism	Muscle relaxant
+P2_J8	Zafirlukast	Respiratory	Antiasthmatic
+P2_J10	Butenafine Hydrochloride	Infectiology	Antifungal
+P2_J12	Carbadox	Infectiology	Antibacterial
+P2_J14	Rimantadine Hydrochloride	Infectiology	Antiviral
+P2_J16	Eburnamonine (-)	Central Nervous System	Vasodilator
+P2_J18	Oxibendazol	Metabolism	Antihelmintic
+P2_J20	Ipsapirone	Central Nervous System	Antidepressant
+P2_J22	Hydroxychloroquine sulfate	Metabolism	Antimalarial
+P2_J24	Sparfloxacin	Infectiology	Antibacterial
+P2_L2	Losartan	Cardiovascular	Antihypertensive
+P2_L4	Loracarbef	Infectiology	Antibacterial
+P2_L6	Fenipentol	Metabolism	Choleretic
+P2_L8	Diosmin	Cardiovascular	Prolongs vasoconstriction, prolongs norepinephrin efect
+P2_L10	Carbidopa	Central Nervous System	Antiparkinsonian
+P2_L12	(-)-Emtricitabine	Infectiology	Antiviral
+P2_L14	Demecarium bromide	Ophthalmology	Antiglaucoma
+P2_L16	Quipazine dimaleate salt	Central Nervous System	Antiemetic
+P2_L18	Acipimox	Metabolism	Antilipemic
+P2_L20	Diflorasone Diacetate	Endocrinology	Anti-inflammatory
+P2_L22	Acamprosate calcium	Central Nervous System	Alcohol dependence treatment
+P2_L24	Benztropine mesylate	Central Nervous System	Antiparkinsonian
+P2_N2	Racepinephrine HCl	Cardiovascular	Bronchodilator
+P2_N4	Mizolastine	Allergology	Antihistamine
+P2_N6	Amisulpride	Central Nervous System	Antipsychotic
+P2_N8	Pyridoxine hydrochloride	Metabolism	Vitamin B6
+P2_N10	Mercaptopurine	Immunology	Immunosuppressant
+P2_N12	Cytarabine	Oncology	Antineoplastic
+P2_N14	Racecadotril	Gastroenterology	Antidiarrheal
+P2_N16	Folic acid	Metabolism	Vitamin B9
+P2_N18	Benazepril HCl	Cardiovascular	Antihypertensive
+P2_N20	Aniracetam	Central Nervous System	Anti-Alzheimer
+P2_N22	Dimethisoquin hydrochloride	Neuromuscular	Antipruritic
+P2_N24	Montelukast	Respiratory	Antiasthmatic
+P2_P2	Pravastatin	Metabolism	Antilipemic
+P2_P4	Alendronate sodium	Metabolism	Antiosteoporetic
+P2_P6	Dipivefrin hydrochloride	Ophthalmology	Antiglaucoma
+P2_P8	Thiorphan	Gastroenterology	Antidiarrheal
+P2_P10	Tomoxetine hydrochloride	Central Nervous System	ADHD treatment
+P2_P12	Aceclidine Hydrochloride	Ophthalmology	Antiglaucoma
+P2_P14	Penciclovir	Infectiology	Antiviral
+P2_P16	Levetiracetam	Central Nervous System	Anticonvulsant
+P2_P18	Dexfenfluramine hydrochloride	Central Nervous System	Anorectic
+P2_P20	Etoricoxib	Central Nervous System	Analgesic
+P2_P22	Sertindole	Central Nervous System	Antipsychotic
+P2_P24	Rosiglitazone Hydrochloride	Metabolism	Antidiabetic
+P3_A1	Valproic acid	Central Nervous System	Anticonvulsant
+P3_A3	Sulmazole	Cardiovascular	Cardiotonic
+P3_A5	Gefitinib	Oncology	Antineoplastic
+P3_A7	Flunisolide	Endocrinology	Anti-inflammatory
+P3_A9	N-Acetyl-DL-homocysteine Thiolactone	Respiratory	Expectorant
+P3_A11	Flurandrenolide	Dermatology	Anti-inflammatory
+P3_A13	Oxiconazole Nitrate	Infectiology	Antifungal
+P3_A15	Rebamipide	Metabolism	Antiulcer
+P3_A17	Nilvadipine	Cardiovascular	Antianginal
+P3_A19	Etanidazole	Oncology	Antineoplastic
+P3_A21	Pinaverium bromide	Neuromuscular	Antispastic
+P3_A23	Mepivacaine hydrochloride	Neuromuscular	Local anesthetic
+P3_C1	Carvedilol	Cardiovascular	Antihypertensive
+P3_C3	Glimepiride	Endocrinology	Antidiabetic
+P3_C5	Picrotoxinin	Central Nervous System	Analeptic
+P3_C7	Mepenzolate bromide	Neuromuscular	Antispastic
+P3_C9	Benfotiamine	Metabolism	Metabolizes into Vitamin B1
+P3_C11	Halcinonide	Dermatology	Anti-inflammatory
+P3_C13	Lanatoside C	Cardiovascular	Cardiotonic
+P3_C15	Benzamil hydrochloride	Metabolism	Antihypertensive
+P3_C17	Suxibuzone	Central Nervous System	Analgesic
+P3_C19	6-Furfurylaminopurine	Dermatology	Skin care agent
+P3_C21	Avermectin B1a	Infectiology	Antihelmintic
+P3_C23	Methenamine	Infectiology	Antibacterial
+P3_E1	Fludarabine	Oncology	Antineoplastic
+P3_E3	Pranlukast	Respiratory	Antiasthmatic
+P3_E5	Penicillamine	Central Nervous System	Analgesic
+P3_E7	Zileuton	Respiratory	Antiasthmatic
+P3_E9	Loratadine	Allergology	Antihistaminic
+P3_E11	Tetraethylenepentamine pentahydrochloride	Metabolism	Antilipemic
+P3_E13	Nisoldipine	Cardiovascular	Antianginal
+P3_E15	Acefylline	Central Nervous System	CNS Stimulant
+P3_E17	Acitretin	Dermatology	Antipsoriatic
+P3_E19	Zonisamide	Central Nervous System	Anticonvulsant
+P3_E21	Irsogladine maleate	Metabolism	Antiulcer
+P3_E23	Cladribine	Oncology	Antineoplastic
+P3_G1	Olopatadine hydrochloride	Allergology	Antihistaminic
+P3_G3	Dydrogesterone	Endocrinology	Progestogen
+P3_G5	Sumatriptan succinate	Central Nervous System	Antimigraine
+P3_G7	Opipramol dihydrochloride	Central Nervous System	Antidepressant
+P3_G9	Nalidixic acid sodium salt	Infectiology	Antibacterial
+P3_G11	Oxacillin sodium	Infectiology	Antibacterial
+P3_G13	Beta-Escin	Metabolism	Antineoplastic
+P3_G15	Thiamine hydrochloride	Immunology	Immunostimulant
+P3_G17	Tazobactam	Infectiology	Antibacterial
+P3_G19	Ibandronate sodium 	Metabolism	Antiosteoporetic
+P3_G21	Warfarin	Hematology	Anticoagulant
+P3_G23	Granisetron	Endocrinology	Antiemetic
+P3_I1	Desloratadine	Allergology	Antihistaminic
+P3_I3	Pranoprofen	Metabolism	Anti-inflammatory
+P3_I5	Secnidazole	Infectiology	Antiamebic
+P3_I7	Pempidine tartrate	Cardiovascular	Antihypotensive
+P3_I9	Clodronate	Metabolism	Antiosteoporosis
+P3_I11	Ibutilide fumarate	Cardiovascular	Antiarrhythmic
+P3_I13	Thimerosal	Infectiology	Antiseptic
+P3_I15	Tramadol hydrochloride	Central Nervous System	Analgesic
+P3_I17	Estropipate	Endocrinology	Estrogen replacement
+P3_I19	Butylscopolammonium (n-) bromide	Central Nervous System	Antispastic
+P3_I21	Irinotecan hydrochloride trihydrate	Oncology	Antineoplastic
+P3_I23	Clarithromycin	Infectiology	Antibacterial
+P3_K1	Vecuronium bromide	Metabolism	Muscle relaxant
+P3_K3	Tylosin	Infectiology	Antibacterial
+P3_K5	Citalopram Hydrobromide	Central Nervous System	Antidepressant
+P3_K7	Promazine hydrochloride	Central Nervous System	Antipsychotic
+P3_K9	Sulfamerazine	Infectiology	Antibacterial
+P3_K11	Venlafaxine	Central Nervous System	Antidepressant
+P3_K13	Ethotoin	Central Nervous System	Anticonvulsant
+P3_K15	3-alpha-Hydroxy-5-beta-androstan-17-one	Endocrinology	Testosterone replacement
+P3_K17	Tetrahydrozoline hydrochloride	Cardiovascular	Nasal Decongestant
+P3_K19	Hexestrol	Endocrinology	Antineoplastic
+P3_K21	Cefmetazole sodium salt	Infectiology	Antibacterial
+P3_K23	Telmisartan	Cardiovascular	Antihypertensive
+P3_M1	Docetaxel	Oncology	Antineoplastic
+P3_M3	Trihexyphenidyl-D,L Hydrochloride	Central Nervous System	Antiparkinsonian
+P3_M5	Succinylsulfathiazole	Infectiology	Antibacterial
+P3_M7	Famprofazone	Central Nervous System	Analgesic
+P3_M9	Bromopride	Central Nervous System	Antiemetic
+P3_M11	Methyl benzethonium chloride	Infectiology	Antibacterial
+P3_M13	Chlorcyclizine hydrochloride	Allergology	Antiemetic
+P3_M15	Diphenylpyraline hydrochloride	Allergology	Antihistaminic
+P3_M17	Benzethonium chloride	Infectiology	Antibacterial
+P3_M19	Trioxsalen	Dermatology	Treatment of skin diseases, causes photosensitivity
+P3_M21	Doxofylline	Respiratory	Bronchodilator
+P3_M23	Cilnidipine	Cardiovascular	Antihypertensive
+P3_O1	Rivastigmine	Central Nervous System	Antidemenitia
+P3_O3	Sulfabenzamide	Infectiology	Antibacterial
+P3_O5	Benzocaine	Neuromuscular	Local anesthetic
+P3_O7	Dipyrone	Central Nervous System	Analgesic
+P3_O9	Isosorbide dinitrate	Cardiovascular	Antianginal
+P3_O11	Sulfachloropyridazine	Infectiology	Antibacterial
+P3_O13	Pramoxine hydrochloride	Neuromuscular	Local anesthetic
+P3_O15	Finasteride	Endocrinology	Anti-alopecia
+P3_O17	Fluorometholone	Endocrinology	Anti-inflammatory
+P3_O19	Cephalothin sodium salt	Infectiology	Antibacterial
+P3_O21	Cefuroxime sodium salt	Infectiology	Antibacterial
+P3_O23	Sildenafil	Cardiovascular	Antihypertensive
+P3_A2	Rifaximin	Infectiology	Antibacterial
+P3_A4	Althiazide	Metabolism	Antihypertensive
+P3_A6	Isopyrin hydrochloride	Central Nervous System	Analgesic
+P3_A8	Phenethicillin potassium salt	Infectiology	Antibacterial
+P3_A10	Sulfamethoxypyridazine	Infectiology	Antibacterial
+P3_A12	Deferoxamine mesylate	Diagnostic	Chelating
+P3_A14	Mephentermine hemisulfate	Cardiovascular	Antihypotensive
+P3_A16	Liranaftate	Infectiology	Antifungal
+P3_A18	Sulfadimethoxine	Infectiology	Antibacterial
+P3_A20	Sulfanilamide	Infectiology	Antibacterial
+P3_A22	Balsalazide Sodium	Gastroenterology	Anti-inflammatory
+P3_A24	Estradiol Valerate	Endocrinology	Contraceptive
+P3_C2	Phentermine hydrochloride	Central Nervous System	TAAR inhibitor, suppresses appetite
+P3_C4	Sulfaquinoxaline sodium salt	Infectiology	Antibacterial
+P3_C6	Streptozotocin	Oncology	Antineoplastic
+P3_C8	Metoprolol-(+,-) (+)-tartrate salt	Cardiovascular	Antiarrhythmic
+P3_C10	Flumethasone	Metabolism	Anti-inflammatory
+P3_C12	Flecainide acetate	Cardiovascular	Antiarrhythmic
+P3_C14	Cefazolin sodium salt	Metabolism	Antibacterial
+P3_C16	Atractyloside potassium salt	Oncology	Antineoplastic
+P3_C18	Folinic acid calcium salt	Hematology	Antianemic
+P3_C20	Levonordefrin	Cardiovascular	Vasoconstrictor
+P3_C22	Ebselen	Metabolism	Anti-inflammatory
+P3_C24	Diclazuril	Metabolism	Antiprotozoal
+P3_E2	Vardenafil	Cardiovascular	Erectile dysfunction treatment
+P3_E4	Nadide	Metabolism	NAD Coenzyme
+P3_E6	Sulfamethizole	Metabolism	Antibacterial
+P3_E8	Medrysone	Metabolism	Anti-inflammatory
+P3_E10	Flunixin meglumine	Central Nervous System	Analgesic
+P3_E12	Spiramycin	Metabolism	Antibacterial
+P3_E14	Glycopyrrolate	Gastroenterology	Antispastic
+P3_E16	Aprepitant	Metabolism	Antiemetic
+P3_E18	Monensin sodium salt	Infectiology	Antibacterial
+P3_E20	Isoetharine mesylate salt	Respiratory	Bronchodilator
+P3_E22	Mevalonic-D, L acid lactone	Cardiovascular	Antilipemic
+P3_E24	Fluconazole	Metabolism	Antifungal
+P3_G2	Anthralin	Dermatology	Antipsoriatic
+P3_G4	Terazosin hydrochloride	Cardiovascular	Antihypertensive
+P3_G6	Phenazopyridine hydrochloride	Central Nervous System	Analgesic
+P3_G8	Demeclocycline hydrochloride	Metabolism	Antibacterial
+P3_G10	Fenoprofen calcium salt dihydrate	Metabolism	Anti-inflammatory
+P3_G12	Piperacillin sodium salt	Metabolism	Antibacterial
+P3_G14	Diethylstilbestrol	Endocrinology	Synthetic, nonsteroidal Estrogen
+P3_G16	Chlorotrianisene	Endocrinology	Antineoplastic
+P3_G18	Ribostamycin sulfate salt	Metabolism	Antibacterial
+P3_G20	Methacholine chloride	Diagnostic	Muscarinic receptor agonist
+P3_G22	Pipenzolate bromide	Gastroenterology	Antispastic
+P3_G24	Lamotrigine	Central Nervous System	Anticonvulsant
+P3_I2	Tripelennamine hydrochloride	Allergology	Antihistaminic
+P3_I4	Butamben	Central Nervous System	Anesthetic
+P3_I6	Sulfapyridine	Metabolism	Antibacterial
+P3_I8	Meclofenoxate hydrochloride	Central Nervous System	CNS Stimulant
+P3_I10	Furaltadone hydrochloride	Infectiology	Antibacterial
+P3_I12	Ethoxyquin	Metabolism	Antifungal
+P3_I14	Tinidazole	Infectiology	Antiamebic
+P3_I16	Guanadrel sulfate	Cardiovascular	Antihypertensive
+P3_I18	Vidarabine	Metabolism	Antiviral
+P3_I20	Sulfameter	Metabolism	Antibacterial
+P3_I22	Isopropamide iodide	Metabolism	Antiulcer
+P3_I24	Tulobuterol	Respiratory	Bronchodilator
+P3_K2	Nalmefene hydrochloride	Central Nervous System	Opioid receptor antagonist
+P3_K4	Alclometasone dipropionate	Metabolism	Anti-inflammatory
+P3_K6	Leflunomide	Immunology	Immunosuppressant
+P3_K8	Norgestrel-(-)-D	Endocrinology	Contraceptive
+P3_K10	Fluocinonide	Metabolism	Anti-inflammatory
+P3_K12	Sulfamethazine sodium salt	Metabolism	Antibacterial
+P3_K14	Guaifenesin	Respiratory	Bronchodilator
+P3_K16	Alexidine dihydrochloride	Infectiology	Antibacterial
+P3_K18	Proadifen hydrochloride	Neuromuscular	Local anesthetic
+P3_K20	Zomepirac sodium salt	Metabolism	Anti-inflammatory
+P3_K22	Cinoxacin	Metabolism	Antibacterial
+P3_K24	Bifonazole	Infectiology	Antifungal
+P3_M2	Imiquimod	Dermatology	Antiviral
+P3_M4	Clobetasol propionate	Metabolism	Anti-inflammatory
+P3_M6	Podophyllotoxin	Metabolism	Antiviral
+P3_M8	Clofibric acid	Metabolism	Antilipemic
+P3_M10	Bendroflumethiazide	Cardiovascular	Antihypertensive
+P3_M12	Dicumarol	Hematology	Anticoagulant
+P3_M14	Methimazole	Endocrinology	Antithyroid
+P3_M16	Merbromin	Infectiology	Antibacterial
+P3_M18	Hexylcaine hydrochloride	Dermatology	Anesthetic
+P3_M20	Drofenine hydrochloride	Neuromuscular	Antispastic
+P3_M22	Cycloheximide	Infectiology	Antibacterial
+P3_M24	Fosinopril	Cardiovascular	Antihypertensive
+P3_O2	Acetylsalicylic acid	Central Nervous System	Analgesic
+P3_O4	(R) -Naproxen sodium salt	Metabolism	Anti-inflammatory
+P3_O6	Propidium iodide	Infectiology	Antibacterial
+P3_O8	Cloperastine hydrochloride	Respiratory	Antitussive
+P3_O10	Eucatropine hydrochloride	Neuromuscular	Antiglaucoma
+P3_O12	Isocarboxazid	Central Nervous System	Antidepressant
+P3_O14	Lithocholic acid	Metabolism	Cholagogue
+P3_O16	Methotrimeprazine maleat salt	Central Nervous System	Analgesic
+P3_O18	Dienestrol	Endocrinology	Synthetic, nonsteroidal Estrogen
+P3_O20	Pridinol methanesulfonate salt	Central Nervous System	Antiparkinsonian
+P3_O22	Amrinone	Cardiovascular	Cardiac contractility agent
+P3_O24	Hexachlorophene	Infectiology	Antiseptic
+P3_B1	DMSO	Control	Control
+P3_B3	Carbinoxamine maleate salt	Allergology	Antihistaminic
+P3_B5	Methazolamide	Metabolism	Antiglaucoma
+P3_B7	Pyrithyldione	Central Nervous System	Hypnotic
+P3_B9	Spectinomycin dihydrochloride	Metabolism	Antibacterial
+P3_B11	Piromidic acid	Metabolism	Antibacterial
+P3_B13	Trimipramine maleate salt	Central Nervous System	Antidepressant
+P3_B15	Chloropyramine hydrochloride	Allergology	Antihistaminic
+P3_B17	Furazolidone	Metabolism	Antibacterial
+P3_B19	Dichlorphenamide	Ophthalmology	Antiglaucoma
+P3_B21	Sulconazole nitrate	Metabolism	Antifungal
+P3_B23	DMSO	Control	Control
+P3_D1	DMSO	Control	Control
+P3_D3	Auranofin	Metabolism	Analgesic
+P3_D5	Cromolyn disodium salt	Allergology	Antiasthmatic
+P3_D7	Bucladesine sodium salt	Cardiovascular	Inhibits phosphodiesterases
+P3_D9	Cefsulodin sodium salt	Metabolism	Antibacterial
+P3_D11	Fosfosal	Central Nervous System	Analgesic
+P3_D13	Suprofen	Central Nervous System	Analgesic
+P3_D15	Deflazacort	Immunology	Anti-inflammatory
+P3_D17	Nadolol	Cardiovascular	Antianginal
+P3_D19	Moxalactam disodium salt	Metabolism	Antibacterial
+P3_D21	Aminophylline	Cardiovascular	Bronchodilator
+P3_D23	DMSO	Control	Control
+P3_F1	DMSO	Control	Control
+P3_F3	Azlocillin sodium salt	Metabolism	Antibacterial
+P3_F5	Clidinium bromide	Neuromuscular	Antispastic
+P3_F7	Sulfamonomethoxine	Metabolism	Antibacterial
+P3_F9	Benzthiazide	Cardiovascular	Antihypertensive
+P3_F11	Trichlormethiazide	Cardiovascular	Antihypertensive
+P3_F13	Oxalamine citrate salt	Central Nervous System	Anti-inflammatory
+P3_F15	Propantheline bromide	Neuromuscular	Antispastic
+P3_F17	Viloxazine hydrochloride	Central Nervous System	Antidepressant
+P3_F19	Dimethadione	Central Nervous System	Anticonvulsant
+P3_F21	Ethaverine hydrochloride	Central Nervous System	Antispastic
+P3_F23	DMSO	Control	Control
+P3_H1	DMSO	Control	Control
+P3_H3	Butacaine	Dermatology	Anesthetic
+P3_H5	Cefoxitin sodium salt	Metabolism	Antibacterial
+P3_H7	Ifosfamide	Oncology	Antineoplastic
+P3_H9	Novobiocin sodium salt	Metabolism	Antibacterial
+P3_H11	Tetrahydroxy-1,4-quinone monohydrate	Dermatology	Keratolytic
+P3_H13	Indoprofen	Central Nervous System	Analgesic
+P3_H15	Carbenoxolone disodium salt	Metabolism	Antiulcer
+P3_H17	Iocetamic acid	Diagnostic	Contrastant
+P3_H19	Ganciclovir	Metabolism	Antiviral
+P3_H21	Ethopropazine hydrochloride	Central Nervous System	Antiparkinsonian
+P3_H23	DMSO	Control	Control
+P3_J1	DMSO	Control	Control
+P3_J3	Olanzapine	Central Nervous System	Antipsychotic
+P3_J5	Trimeprazine tartrate	Allergology	Antihistaminic
+P3_J7	Nafcillin sodium salt monohydrate	Metabolism	Antibacterial
+P3_J9	Procyclidine hydrochloride	Central Nervous System	Antiparkinsonian
+P3_J11	Amiprilose hydrochloride	Immunology	Immunomodulator
+P3_J13	Ethynylestradiol 3-methyl ether	Endocrinology	Estrogen replacement
+P3_J15	(-) -Levobunolol hydrochloride	Ophthalmology	Antiglaucoma
+P3_J17	Iodixanol	Diagnostic	Contrastant
+P3_J19	Clinafloxacin	Infectiology	Antibacterial
+P3_J21	Equilin	Endocrinology	Estrogen replacement
+P3_J23	DMSO	Control	Control
+P3_L1	DMSO	Control	Control
+P3_L3	Paroxetine Hydrochloride	Central Nervous System	Antidepressant
+P3_L5	Nylidrin	Cardiovascular	Vasodilator
+P3_L7	Liothyronine	Endocrinology	Thyroid hormone 
+P3_L9	Roxithromycin	Metabolism	Antibacterial
+P3_L11	Beclomethasone dipropionate	Metabolism	Anti-inflammatory
+P3_L13	Tolmetin sodium salt dihydrate	Metabolism	Anti-inflammatory
+P3_L15	(+) -Levobunolol hydrochloride	Ophthalmology	Antiglaucoma
+P3_L17	Doxazosin mesylate	Cardiovascular	Antihypertensive
+P3_L19	Fluvastatin sodium salt	Cardiovascular	Antilipemic
+P3_L21	Methylhydantoin-5-(L)	Central Nervous System	Anticonvulsant
+P3_L23	DMSO	Control	Control
+P3_N1	DMSO	Control	Control
+P3_N3	Gabapentin	Central Nervous System	Anticonvulsant
+P3_N5	Raloxifene hydrochloride	Endocrinology	SERM ligand
+P3_N7	Etidronic acid, disodium salt	Metabolism	Antiosteoporetic
+P3_N9	Methylhydantoin-5-(D)	Central Nervous System	Anticonvulsant
+P3_N11	Simvastatin	Cardiovascular	Antilipemic
+P3_N13	Azacytidine-5	Oncology	Antineoplastic
+P3_N15	Paromomycin sulfate	Metabolism	Antiamebic
+P3_N17	Acetaminophen	Central Nervous System	Analgesic
+P3_N19	Phthalylsulfathiazole	Metabolism	Antibacterial
+P3_N21	Luteolin	Respiratory	Expectorant
+P3_N23	DMSO	Control	Control
+P3_P1	DMSO	Control	Control
+P3_P3	Iopamidol	Diagnostic	Contrastant
+P3_P5	Iopromide	Diagnostic	Contrastant
+P3_P7	Theophylline monohydrate	Cardiovascular	Bronchodilator
+P3_P9	Theobromine	Cardiovascular	Bronchodilator
+P3_P11	Reserpine	Central Nervous System	Antipsychotic
+P3_P13	Bicalutamide	Endocrinology	Antineoplastic
+P3_P15	Scopolamine hydrochloride	Central Nervous System	Antiemetic
+P3_P17	Ioversol	Diagnostic	Contrastant
+P3_P19	Rabeprazole Sodium salt	Metabolism	Antiulcer
+P3_P21	Carbachol	Cardiovascular	Antihypertensive
+P3_P23	DMSO	Control	Control
+P3_B2	DMSO	Control	Control
+P3_B4	Niacin	Cardiovascular	Antilipemic
+P3_B6	Bemegride	Central Nervous System	CNS stimulant
+P3_B8	Digoxigenin	Diagnostic	Immunotag
+P3_B10	Meglumine	Metabolism	Antileishmanial
+P3_B12	Dolasetron mesilate	Central Nervous System	Antiemetic
+P3_B14	Clioquinol	Metabolism	Antiamebic
+P3_B16	Oxybenzone	Dermatology	Photoprotectant
+P3_B18	Promethazine hydrochloride	Allergology	Antihistaminic
+P3_B20	Diacerein	Immunology	Antiarthritic
+P3_B22	Esmolol hydrochloride	Cardiovascular	Antiarrhythmic
+P3_B24	DMSO	Control	Control
+P3_D2	DMSO	Control	Control
+P3_D4	Cortisol acetate	Metabolism	Anti-inflammatory
+P3_D6	Flubendazol	Metabolism	Antihelmintic
+P3_D8	Felbinac	Central Nervous System	Analgesic
+P3_D10	Butylparaben	Metabolism	Antifungal
+P3_D12	Aminohippuric acid	Diagnostic	Diagnosis of Renal plasma flow
+P3_D14	N-Acetyl-L-leucine	Central Nervous System	Antivertigo
+P3_D16	Pipemidic acid	Metabolism	Antibacterial
+P3_D18	Dioxybenzone	Dermatology	Photoprotectant
+P3_D20	Adrenosterone	Endocrinology	Testosterone replacement
+P3_D22	Methylatropine nitrate	Neuromuscular	Antispastic
+P3_D24	DMSO	Control	Control
+P3_F2	DMSO	Control	Control
+P3_F4	Hymecromone	Metabolism	Muscle relaxant
+P3_F6	Abacavir Sulfate	Infectiology	Antiviral
+P3_F8	Diloxanide furoate	Metabolism	Antiamebic
+P3_F10	Metyrapone	Endocrinology	Stimulates ACTH
+P3_F12	Urapidil hydrochloride	Cardiovascular	Antihypertensive
+P3_F14	Fluspirilen	Central Nervous System	Antipsychotic
+P3_F16	S-(+)-ibuprofen	Central Nervous System	Analgesic
+P3_F18	Ethynodiol diacetate	Endocrinology	Contraceptive
+P3_F20	Nabumetone	Central Nervous System	Analgesic
+P3_F22	Nisoxetine hydrochloride	Central Nervous System	Antidepressant
+P3_F24	DMSO	Control	Control
+P3_H2	DMSO	Control	Control
+P3_H4	(+)-Isoproterenol (+)-bitartrate salt	Respiratory	Antiasthmatic
+P3_H6	Monobenzone	Dermatology	Vitiligo treatment
+P3_H8	2-Aminobenzenesulfonamide	Metabolism	Diuretic
+P3_H10	Estrone	Endocrinology	Estrogen replacement
+P3_H12	Lorglumide sodium salt	Metabolism	Antiulcer
+P3_H14	Nitrendipine	Cardiovascular	Antihypertensive
+P3_H16	Flurbiprofen	Central Nervous System	Analgesic
+P3_H18	Nimodipine	Cardiovascular	Vasodilator
+P3_H20	Bacitracin	Metabolism	Antibacterial
+P3_H22	L(-)-vesamicol hydrochloride	Neuromuscular	Inhibits acetylcholine transport
+P3_H24	DMSO	Control	Control
+P3_J2	DMSO	Control	Control
+P3_J4	Nizatidine	Metabolism	Antiulcer
+P3_J6	Thioperamide maleate	Central Nervous System	Antiemetic
+P3_J8	Xamoterol hemifumarate	Cardiovascular	Adrenoreceptor selective partial agonist
+P3_J10	Rolipram	Central Nervous System	Antidepressant
+P3_J12	Thonzonium bromide	Dermatology	Antiseptic
+P3_J14	Idazoxan hydrochloride	Central Nervous System	Antiparkinsonian
+P3_J16	Quinapril HCl	Cardiovascular	Antihypertensive
+P3_J18	Nilutamide	Oncology	Antineoplastic
+P3_J20	Ketorolac tromethamine	Central Nervous System	Analgesic
+P3_J22	Protriptyline hydrochloride	Central Nervous System	Antidepressant
+P3_J24	DMSO	Control	Control
+P3_L2	DMSO	Control	Control
+P3_L4	Propofol	Central Nervous System	Anesthetic
+P3_L6	S(-)Eticlopride hydrochloride	Central Nervous System	Selective dopamine antagonist
+P3_L8	Primidone	Central Nervous System	Anticonvulsant
+P3_L10	Flucytosine	Metabolism	Antifungal
+P3_L12	(-)-MK 801 hydrogen maleate	Central Nervous System	Anticonvulsant
+P3_L14	Bephenium hydroxynaphthoate	Metabolism	Antihelmintic
+P3_L16	Dehydroisoandosterone 3-acetate	Endocrinology	Testosterone replacement
+P3_L18	Benserazide hydrochloride	Central Nervous System	Antiparkinsonian
+P3_L20	Iodipamide	Diagnostic	Contrastant
+P3_L22	Allopurinol	Metabolism	Hyperuricemia treatment
+P3_L24	DMSO	Control	Control
+P3_N2	DMSO	Control	Control
+P3_N4	Pentetic acid	Oncology	Chelating
+P3_N6	Bretylium tosylate	Cardiovascular	Anesthetic
+P3_N8	Pralidoxime chloride	Neuromuscular	Anticholinesterase treatment
+P3_N10	Phenoxybenzamine hydrochloride	Cardiovascular	Antihypertensive
+P3_N12	Salmeterol	Respiratory	Bronchodilator
+P3_N14	Altretamine	Oncology	Antineoplastic
+P3_N16	Prazosin hydrochloride	Cardiovascular	Antihypertensive
+P3_N18	Timolol maleate salt	Cardiovascular	Antianginal
+P3_N20	(+,-)-Octopamine hydrochloride	Cardiovascular	Norepinephrin replacement
+P3_N22	Stavudine	Infectiology	Antiviral
+P3_N24	DMSO	Control	Control
+P3_P2	DMSO	Control	Control
+P3_P4	Crotamiton	Dermatology	Antipruritic
+P3_P6	Toremifene	Endocrinology	Antineoplastic
+P3_P8	(R)-(+)-Atenolol	Cardiovascular	Antianginal
+P3_P10	Tyloxapol	Respiratory	Mucolytic
+P3_P12	Florfenicol	Metabolism	Antibacterial
+P3_P14	Megestrol acetate	Endocrinology	Antineoplastic
+P3_P16	Deoxycorticosterone	Endocrinology	Anti-inflammatory
+P3_P18	Urosiol	Metabolism	Secondary bile acid
+P3_P20	Proparacaine hydrochloride	Central Nervous System	Anesthetic
+P3_P22	Aminocaproic acid	Allergology	Antifibrinolytic
+P3_P24	DMSO	Control	Control
+P4_A1	DMSO	Control	Control
+P4_A3	Denatonium benzoate	Neuromuscular	Aversive agent
+P4_A5	Canrenone	Endocrinology	Diuretic
+P4_A7	Enilconazole	Metabolism	Antifungal
+P4_A9	Methacycline hydrochloride	Metabolism	Antibacterial
+P4_A11	Floxuridine	Oncology	Antineoplastic
+P4_A13	Sotalol hydrochloride	Cardiovascular	Antianginal
+P4_A15	Gestrinone	Endocrinology	Contraceptive
+P4_A17	Decamethonium bromide	Neuromuscular	Muscle relaxant
+P4_A19	Darifenacin hydrobromide	Neuromuscular	Urinary incontinence treatment
+P4_A21	Indatraline hydrochloride	Central Nervous System	Antidepressant
+P4_A23	DMSO	Control	Control
+P4_C1	DMSO	Control	Control
+P4_C3	Remoxipride Hydrochloride	Central Nervous System	Antipsychotic
+P4_C5	THIP Hydrochloride	Central Nervous System	Sedative
+P4_C7	Pirlindole mesylate	Central Nervous System	Antidepressant
+P4_C9	Pronethalol hydrochloride	Cardiovascular	Antianginal
+P4_C11	Naftopidil dihydrochloride	Cardiovascular	Antihypertensive
+P4_C13	Tracazolate hydrochloride	Central Nervous System	Anticonvulsant
+P4_C15	Zardaverine	Respiratory	Bronchodilator
+P4_C17	Memantine Hydrochloride	Central Nervous System	Anti-Alzheimer
+P4_C19	Ozagrel hydrochloride	Cardiovascular	Antianginal
+P4_C21	Piribedil hydrochloride	Cardiovascular	Antiparkinsonian
+P4_C23	DMSO	Control	Control
+P4_E1	DMSO	Control	Control
+P4_E3	Nitrocaramiphen hydrochloride	Central Nervous System	Selective muscarinic receptor antagonist
+P4_E5	Nandrolone	Endocrinology	Antianemic
+P4_E7	Dimaprit dihydrochloride	Metabolism	Selective histamine receptor antagonist
+P4_E9	Oxfendazole	Metabolism	Antihelmintic
+P4_E11	Guaiacol	Respiratory	Expectorant
+P4_E13	Proscillaridin A	Cardiovascular	Cardiac glycoside
+P4_E15	Pramipexole	Central Nervous System	Antiparkinsonian
+P4_E17	Norgestimate	Endocrinology	Contraceptive
+P4_E19	Chlormadinone acetate	Endocrinology	Antineoplastic
+P4_E21	Phenylbutazone	Metabolism	Anti-inflammatory
+P4_E23	DMSO	Control	Control
+P4_G1	DMSO	Control	Control
+P4_G3	Gliquidone	Endocrinology	Antidiabetic
+P4_G5	Pizotifen malate	Allergology	Antihistaminic
+P4_G7	Ribavirin	Metabolism	Antiviral
+P4_G9	Cyclopenthiazide	Cardiovascular	Antihypertensive
+P4_G11	Fluvoxamine maleate	Central Nervous System	Antidepressant
+P4_G13	Prothionamide	Infectiology	Antibacterial
+P4_G15	Fluticasone propionate	Cardiovascular	Anti-inflammatory
+P4_G17	Zuclopenthixol dihydrochloride	Central Nervous System	Antipsychotic
+P4_G19	Proguanil hydrochloride	Metabolism	Antimalarial
+P4_G21	Lymecycline	Metabolism	Antibacterial
+P4_G23	DMSO	Control	Control
+P4_I1	DMSO	Control	Control
+P4_I3	Alfadolone acetate	Central Nervous System	Anesthetic
+P4_I5	Alfaxalone	Central Nervous System	Anesthetic
+P4_I7	Azapropazone	Central Nervous System	Analgesic
+P4_I9	Meptazinol hydrochloride	Central Nervous System	Analgesic
+P4_I11	Apramycin	Metabolism	Antibacterial
+P4_I13	Epitiostanol	Oncology	Antineoplastic
+P4_I15	Fursultiamine Hydrochloride	Metabolism	Anti-Alzheimer
+P4_I17	Gabexate mesilate	Hematology	Anticoagulant
+P4_I19	Pivampicillin	Metabolism	Antibacterial
+P4_I21	Talampicillin hydrochloride	Metabolism	Antibacterial
+P4_I23	DMSO	Control	Control
+P4_K1	DMSO	Control	Control
+P4_K3	Flucloxacillin sodium	Metabolism	Antibacterial
+P4_K5	Trapidil	Cardiovascular	Vasodilator
+P4_K7	Deptropine citrate	Allergology	Antihistaminic
+P4_K9	Sertraline	Central Nervous System	Antidepressant
+P4_K11	Ethamsylate	Cardiovascular	Antiplatelet
+P4_K13	Moxonidine	Cardiovascular	Antihypertensive
+P4_K15	Etilefrine hydrochloride	Cardiovascular	Vasoconstrictor
+P4_K17	Alprostadil	Cardiovascular	Erectile dysfunction treatment
+P4_K19	Tribenoside	Cardiovascular	Vasoprotective
+P4_K21	Rimexolone	Metabolism	Anti-inflammatory
+P4_K23	DMSO	Control	Control
+P4_M1	DMSO	Control	Control
+P4_M3	Isradipine	Cardiovascular	Antianginal
+P4_M5	Tiletamine hydrochloride	Central Nervous System	Anesthetic
+P4_M7	Isometheptene mucate	Cardiovascular	Antimigraine
+P4_M9	Nifurtimox	Metabolism	Chagas disease treatment
+P4_M11	Letrozole	Oncology	Antineoplastic
+P4_M13	Arbutin	Metabolism	Antibacterial
+P4_M15	Tocainide hydrochloride	Cardiovascular	Anesthetic
+P4_M17	Benzathine benzylpenicillin	Metabolism	Antibacterial
+P4_M19	Risperidone	Central Nervous System	Antipsychotic
+P4_M21	Torsemide	Cardiovascular	Antihypertensive
+P4_M23	DMSO	Control	Control
+P4_O1	DMSO	Control	Control
+P4_O3	Halofantrine hydrochloride	Metabolism	Antimalarial
+P4_O5	Articaine hydrochloride	Central Nervous System	Anesthetic
+P4_O7	Nomegestrol acetate	Endocrinology	Contraceptive
+P4_O9	Pancuronium bromide	Neuromuscular	Muscle relaxant
+P4_O11	Molindone hydrochloride	Central Nervous System	Antipsychotic
+P4_O13	Alcuronium chloride	Neuromuscular	Muscle relaxant
+P4_O15	Zalcitabine	Metabolism	Antiviral
+P4_O17	Methyldopate hydrochloride	Cardiovascular	Antihypertensive
+P4_O19	Levocabastine hydrochloride	Allergology	Antihistaminic
+P4_O21	Pyrvinium pamoate	Metabolism	Antihelmintic
+P4_O23	DMSO	Control	Control

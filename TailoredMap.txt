@@ -1,0 +1,385 @@
+Well	Drug_conc	Drug	Conc	Conc_full	Conc_quarter
+A1	Metronidazole 1	Metronidazole	1	10	2.5
+A3	Metronidazole 2	Metronidazole	2	5	1.25
+A5	Metronidazole 3	Metronidazole	3	2.5	0.625
+A7	Metronidazole 4	Metronidazole	4	1.25	0.3125
+C1	Cycloserine D 1	Cycloserine D	1	30	7.5
+C3	Cycloserine D 2	Cycloserine D	2	15	3.75
+C5	Cycloserine D 3	Cycloserine D	3	7.5	1.875
+C7	Cycloserine D 4	Cycloserine D	4	3.75	0.9375
+E1	Meropenem 1	Meropenem	1	0.12	0.03
+E3	Meropenem 2	Meropenem	2	0.06	0.015
+E5	Meropenem 3	Meropenem	3	0.03	0.0075
+E7	Meropenem 4	Meropenem	4	0.015	0.00375
+G1	Nisin 1	Nisin	1	1	0.25
+G3	Nisin 2	Nisin	2	0.5	0.125
+G5	Nisin 3	Nisin	3	0.25	0.0625
+G7	Nisin 4	Nisin	4	0.125	0.03125
+I1	Control1 1	Control1	1	0	0
+I3	Control1 2	Control1	2	0	0
+I5	Control1 3	Control1	3	0	0
+I7	Control1 4	Control1	4	0	0
+K1	Clindamycin 1	Clindamycin	1	0.12	0.03
+K3	Clindamycin 2	Clindamycin	2	0.06	0.015
+K5	Clindamycin 3	Clindamycin	3	0.03	0.0075
+K7	Clindamycin 4	Clindamycin	4	0.015	0.00375
+M1	Puromycin 1	Puromycin	1	10	2.5
+M3	Puromycin 2	Puromycin	2	5	1.25
+M5	Puromycin 3	Puromycin	3	2.5	0.625
+M7	Puromycin 4	Puromycin	4	1.25	0.3125
+O1	Doxorubicin 1	Doxorubicin	1	5	1.25
+O3	Doxorubicin 2	Doxorubicin	2	2.5	0.625
+O5	Doxorubicin 3	Doxorubicin	3	1.25	0.3125
+O7	Doxorubicin 4	Doxorubicin	4	0.625	0.15625
+A9	Vanillin 1	Vanillin	1	200	50
+A11	Vanillin 2	Vanillin	2	100	25
+A13	Vanillin 3	Vanillin	3	50	12.5
+A15	Vanillin 4	Vanillin	4	25	6.25
+C9	Linezolid 1	Linezolid	1	0.5	0.125
+C11	Linezolid 2	Linezolid	2	0.25	0.0625
+C13	Linezolid 3	Linezolid	3	0.125	0.03125
+C15	Linezolid 4	Linezolid	4	0.0625	0.015625
+E9	Daptomycin 1	Daptomycin	1	0.5	0.125
+E11	Daptomycin 2	Daptomycin	2	0.25	0.0625
+E13	Daptomycin 3	Daptomycin	3	0.125	0.03125
+E15	Daptomycin 4	Daptomycin	4	0.0625	0.015625
+G9	Tigecycline 1	Tigecycline	1	0.06	0.015
+G11	Tigecycline 2	Tigecycline	2	0.03	0.0075
+G13	Tigecycline 3	Tigecycline	3	0.015	0.00375
+G15	Tigecycline 4	Tigecycline	4	0.0075	0.001875
+I9	Mitomycin C 1	Mitomycin C	1	0.02	0.005
+I11	Mitomycin C 2	Mitomycin C	2	0.01	0.0025
+I13	Mitomycin C 3	Mitomycin C	3	0.005	0.00125
+I15	Mitomycin C 4	Mitomycin C	4	0.0025	0.000625
+K9	CCCP 1	CCCP	1	8	2
+K11	CCCP 2	CCCP	2	4	1
+K13	CCCP 3	CCCP	3	2	0.5
+K15	CCCP 4	CCCP	4	1	0.25
+M9	Control2 1	Control2	1	0	0
+M11	Control2 2	Control2	2	0	0
+M13	Control2 3	Control2	3	0	0
+M15	Control2 4	Control2	4	0	0
+O9	Procaine 1	Procaine	1	10910.8	2727.7
+O11	Procaine 2	Procaine	2	5455.4	1363.85
+O13	Procaine 3	Procaine	3	2727.7	681.925
+O15	Procaine 4	Procaine	4	1363.85	340.9625
+A17	Moxifloxacin 1	Moxifloxacin	1	0.5	0.125
+A19	Moxifloxacin 2	Moxifloxacin	2	0.25	0.0625
+A21	Moxifloxacin 3	Moxifloxacin	3	0.125	0.03125
+A23	Moxifloxacin 4	Moxifloxacin	4	0.0625	0.015625
+C17	Nalidixic acid 1	Nalidixic acid	1	100	25
+C19	Nalidixic acid 2	Nalidixic acid	2	50	12.5
+C21	Nalidixic acid 3	Nalidixic acid	3	25	6.25
+C23	Nalidixic acid 4	Nalidixic acid	4	12.5	3.125
+E17	Kasugamycin 1	Kasugamycin	1	50	12.5
+E19	Kasugamycin 2	Kasugamycin	2	25	6.25
+E21	Kasugamycin 3	Kasugamycin	3	12.5	3.125
+E23	Kasugamycin 4	Kasugamycin	4	6.25	1.5625
+G17	Nigericin 1	Nigericin	1	8	2
+G19	Nigericin 2	Nigericin	2	4	1
+G21	Nigericin 3	Nigericin	3	2	0.5
+G23	Nigericin 4	Nigericin	4	1	0.25
+I17	Tunicamycin 1	Tunicamycin	1	50	12.5
+I19	Tunicamycin 2	Tunicamycin	2	25	6.25
+I21	Tunicamycin 3	Tunicamycin	3	12.5	3.125
+I23	Tunicamycin 4	Tunicamycin	4	6.25	1.5625
+K17	Vitamin B12 1	Vitamin B12	1	50	12.5
+K19	Vitamin B12 2	Vitamin B12	2	25	6.25
+K21	Vitamin B12 3	Vitamin B12	3	12.5	3.125
+K23	Vitamin B12 4	Vitamin B12	4	6.25	1.5625
+M17	Lincomycin 1	Lincomycin	1	0.12	0.03
+M19	Lincomycin 2	Lincomycin	2	0.06	0.015
+M21	Lincomycin 3	Lincomycin	3	0.03	0.0075
+M23	Lincomycin 4	Lincomycin	4	0.015	0.00375
+O17	Clavulanic acid 1	Clavulanic acid	1	8	2
+O19	Clavulanic acid 2	Clavulanic acid	2	4	1
+O21	Clavulanic acid 3	Clavulanic acid	3	2	0.5
+O23	Clavulanic acid 4	Clavulanic acid	4	1	0.25
+A2	Methicillin 1	Methicillin	1	2	0.5
+A4	Methicillin 2	Methicillin	2	1	0.25
+A6	Methicillin 3	Methicillin	3	0.5	0.125
+A8	Methicillin 4	Methicillin	4	0.25	0.0625
+C2	Spectinomycin 1	Spectinomycin	1	30	7.5
+C4	Spectinomycin 2	Spectinomycin	2	15	3.75
+C6	Spectinomycin 3	Spectinomycin	3	7.5	1.875
+C8	Spectinomycin 4	Spectinomycin	4	3.75	0.9375
+E2	Amikacin 1	Amikacin	1	50	12.5
+E4	Amikacin 2	Amikacin	2	25	6.25
+E6	Amikacin 3	Amikacin	3	12.5	3.125
+E8	Amikacin 4	Amikacin	4	6.25	1.5625
+G2	Control3 1	Control3	1	0	0
+G4	Control3 2	Control3	2	0	0
+G6	Control3 3	Control3	3	0	0
+G8	Control3 4	Control3	4	0	0
+I2	Tobramycin 1	Tobramycin	1	30	7.5
+I4	Tobramycin 2	Tobramycin	2	15	3.75
+I6	Tobramycin 3	Tobramycin	3	7.5	1.875
+I8	Tobramycin 4	Tobramycin	4	3.75	0.9375
+K2	Kanamycin 1	Kanamycin	1	75	18.75
+K4	Kanamycin 2	Kanamycin	2	37.5	9.375
+K6	Kanamycin 3	Kanamycin	3	18.75	4.6875
+K8	Kanamycin 4	Kanamycin	4	9.375	2.34375
+M2	Gentamycin 1	Gentamycin	1	50	12.5
+M4	Gentamycin 2	Gentamycin	2	25	6.25
+M6	Gentamycin 3	Gentamycin	3	12.5	3.125
+M8	Gentamycin 4	Gentamycin	4	6.25	1.5625
+O2	Doxycycline 1	Doxycycline	1	10	2.5
+O4	Doxycycline 2	Doxycycline	2	5	1.25
+O6	Doxycycline 3	Doxycycline	3	2.5	0.625
+O8	Doxycycline 4	Doxycycline	4	1.25	0.3125
+A10	Minocycline 1	Minocycline	1	10	2.5
+A12	Minocycline 2	Minocycline	2	5	1.25
+A14	Minocycline 3	Minocycline	3	2.5	0.625
+A16	Minocycline 4	Minocycline	4	1.25	0.3125
+C10	Tetracycline 1	Tetracycline	1	5	1.25
+C12	Tetracycline 2	Tetracycline	2	2.5	0.625
+C14	Tetracycline 3	Tetracycline	3	1.25	0.3125
+C16	Tetracycline 4	Tetracycline	4	0.625	0.15625
+E10	Control4 1	Control4	1	0	0
+E12	Control4 2	Control4	2	0	0
+E14	Control4 3	Control4	3	0	0
+E16	Control4 4	Control4	4	0	0
+G10	Amoxicillin 1	Amoxicillin	1	1	0.25
+G12	Amoxicillin 2	Amoxicillin	2	0.5	0.125
+G14	Amoxicillin 3	Amoxicillin	3	0.25	0.0625
+G16	Amoxicillin 4	Amoxicillin	4	0.125	0.03125
+I10	Erythromycin 1	Erythromycin	1	0.12	0.03
+I12	Erythromycin 2	Erythromycin	2	0.06	0.015
+I14	Erythromycin 3	Erythromycin	3	0.03	0.0075
+I16	Erythromycin 4	Erythromycin	4	0.015	0.00375
+K10	Clarithromycin 1	Clarithromycin	1	0.12	0.03
+K12	Clarithromycin 2	Clarithromycin	2	0.06	0.015
+K14	Clarithromycin 3	Clarithromycin	3	0.03	0.0075
+K16	Clarithromycin 4	Clarithromycin	4	0.015	0.00375
+M10	Azitrohomycin 1	Azitrohomycin	1	0.12	0.03
+M12	Azitrohomycin 2	Azitrohomycin	2	0.06	0.015
+M14	Azitrohomycin 3	Azitrohomycin	3	0.03	0.0075
+M16	Azitrohomycin 4	Azitrohomycin	4	0.015	0.00375
+O10	Chloramphenicol 1	Chloramphenicol	1	2	0.5
+O12	Chloramphenicol 2	Chloramphenicol	2	1	0.25
+O14	Chloramphenicol 3	Chloramphenicol	3	0.5	0.125
+O16	Chloramphenicol 4	Chloramphenicol	4	0.25	0.0625
+A18	Fusidic acid 1	Fusidic acid	1	10	2.5
+A20	Fusidic acid 2	Fusidic acid	2	5	1.25
+A22	Fusidic acid 3	Fusidic acid	3	2.5	0.625
+A24	Fusidic acid 4	Fusidic acid	4	1.25	0.3125
+C18	Nitrofurantoin 1	Nitrofurantoin	1	8	2
+C20	Nitrofurantoin 2	Nitrofurantoin	2	4	1
+C22	Nitrofurantoin 3	Nitrofurantoin	3	2	0.5
+C24	Nitrofurantoin 4	Nitrofurantoin	4	1	0.25
+E18	Spiramycin 1	Spiramycin	1	0.06	0.015
+E20	Spiramycin 2	Spiramycin	2	0.03	0.0075
+E22	Spiramycin 3	Spiramycin	3	0.015	0.00375
+E24	Spiramycin 4	Spiramycin	4	0.0075	0.001875
+G18	Oxacillin 1	Oxacillin	1	0.12	0.03
+G20	Oxacillin 2	Oxacillin	2	0.06	0.015
+G22	Oxacillin 3	Oxacillin	3	0.03	0.0075
+G24	Oxacillin 4	Oxacillin	4	0.015	0.00375
+I18	Cefotaxime 1	Cefotaxime	1	1	0.25
+I20	Cefotaxime 2	Cefotaxime	2	0.5	0.125
+I22	Cefotaxime 3	Cefotaxime	3	0.25	0.0625
+I24	Cefotaxime 4	Cefotaxime	4	0.125	0.03125
+K18	Cefaclor 1	Cefaclor	1	0.12	0.03
+K20	Cefaclor 2	Cefaclor	2	0.06	0.015
+K22	Cefaclor 3	Cefaclor	3	0.03	0.0075
+K24	Cefaclor 4	Cefaclor	4	0.015	0.00375
+M18	Cefsulodin 1	Cefsulodin	1	0.12	0.03
+M20	Cefsulodin 2	Cefsulodin	2	0.06	0.015
+M22	Cefsulodin 3	Cefsulodin	3	0.03	0.0075
+M24	Cefsulodin 4	Cefsulodin	4	0.015	0.00375
+O18	Control5 1	Control5	1	0	0
+O20	Control5 2	Control5	2	0	0
+O22	Control5 3	Control5	3	0	0
+O24	Control5 4	Control5	4	0	0
+B1	Piperacillin 1	Piperacillin	1	0.12	0.03
+B3	Piperacillin 2	Piperacillin	2	0.06	0.015
+B5	Piperacillin 3	Piperacillin	3	0.03	0.0075
+B7	Piperacillin 4	Piperacillin	4	0.015	0.00375
+D1	Control6 1	Control6	1	0	0
+D3	Control6 2	Control6	2	0	0
+D5	Control6 3	Control6	3	0	0
+D7	Control6 4	Control6	4	0	0
+F1	Cephalexin 1	Cephalexin	1	2	0.5
+F3	Cephalexin 2	Cephalexin	2	1	0.25
+F5	Cephalexin 3	Cephalexin	3	0.5	0.125
+F7	Cephalexin 4	Cephalexin	4	0.25	0.0625
+H1	Aztreonam 1	Aztreonam	1	75	18.75
+H3	Aztreonam 2	Aztreonam	2	37.5	9.375
+H5	Aztreonam 3	Aztreonam	3	18.75	4.6875
+H7	Aztreonam 4	Aztreonam	4	9.375	2.34375
+J1	Penicillin G 1	Penicillin G	1	0.02	0.005
+J3	Penicillin G 2	Penicillin G	2	0.01	0.0025
+J5	Penicillin G 3	Penicillin G	3	0.005	0.00125
+J7	Penicillin G 4	Penicillin G	4	0.0025	0.000625
+L1	Cefuroxime 1	Cefuroxime	1	0.5	0.125
+L3	Cefuroxime 2	Cefuroxime	2	0.25	0.0625
+L5	Cefuroxime 3	Cefuroxime	3	0.125	0.03125
+L7	Cefuroxime 4	Cefuroxime	4	0.0625	0.015625
+N1	Ampicillin 1	Ampicillin	1	0.5	0.125
+N3	Ampicillin 2	Ampicillin	2	0.25	0.0625
+N5	Ampicillin 3	Ampicillin	3	0.125	0.03125
+N7	Ampicillin 4	Ampicillin	4	0.0625	0.015625
+P1	Imipenem 1	Imipenem	1	0.12	0.03
+P3	Imipenem 2	Imipenem	2	0.06	0.015
+P5	Imipenem 3	Imipenem	3	0.03	0.0075
+P7	Imipenem 4	Imipenem	4	0.015	0.00375
+B9	Teicoplanin 1	Teicoplanin	1	0.03	0.0075
+B11	Teicoplanin 2	Teicoplanin	2	0.015	0.00375
+B13	Teicoplanin 3	Teicoplanin	3	0.0075	0.001875
+B15	Teicoplanin 4	Teicoplanin	4	0.00375	0.0009375
+D9	Vancomycin 1	Vancomycin	1	0.5	0.125
+D11	Vancomycin 2	Vancomycin	2	0.25	0.0625
+D13	Vancomycin 3	Vancomycin	3	0.125	0.03125
+D15	Vancomycin 4	Vancomycin	4	0.0625	0.015625
+F9	Bleomycin 1	Bleomycin	1	1	0.25
+F11	Bleomycin 2	Bleomycin	2	0.5	0.125
+F13	Bleomycin 3	Bleomycin	3	0.25	0.0625
+F15	Bleomycin 4	Bleomycin	4	0.125	0.03125
+H9	Fosfomycin 1	Fosfomycin	1	8	2
+H11	Fosfomycin 2	Fosfomycin	2	4	1
+H13	Fosfomycin 3	Fosfomycin	3	2	0.5
+H15	Fosfomycin 4	Fosfomycin	4	1	0.25
+J9	Novobiocin 1	Novobiocin	1	2	0.5
+J11	Novobiocin 2	Novobiocin	2	1	0.25
+J13	Novobiocin 3	Novobiocin	3	0.5	0.125
+J15	Novobiocin 4	Novobiocin	4	0.25	0.0625
+L9	Ciprofloxacin 1	Ciprofloxacin	1	1	0.25
+L11	Ciprofloxacin 2	Ciprofloxacin	2	0.5	0.125
+L13	Ciprofloxacin 3	Ciprofloxacin	3	0.25	0.0625
+L15	Ciprofloxacin 4	Ciprofloxacin	4	0.125	0.03125
+N9	Levofloxacin 1	Levofloxacin	1	1	0.25
+N11	Levofloxacin 2	Levofloxacin	2	0.5	0.125
+N13	Levofloxacin 3	Levofloxacin	3	0.25	0.0625
+N15	Levofloxacin 4	Levofloxacin	4	0.125	0.03125
+P9	Rifampicin 1	Rifampicin	1	0.06	0.015
+P11	Rifampicin 2	Rifampicin	2	0.03	0.0075
+P13	Rifampicin 3	Rifampicin	3	0.015	0.00375
+P15	Rifampicin 4	Rifampicin	4	0.0075	0.001875
+B17	Trimethoprim 1	Trimethoprim	1	0.1	0.025
+B19	Trimethoprim 2	Trimethoprim	2	0.05	0.0125
+B21	Trimethoprim 3	Trimethoprim	3	0.025	0.00625
+B23	Trimethoprim 4	Trimethoprim	4	0.0125	0.003125
+D17	Sulfamonomethoxine 1	Sulfamonomethoxine	1	10	2.5
+D19	Sulfamonomethoxine 2	Sulfamonomethoxine	2	5	1.25
+D21	Sulfamonomethoxine 3	Sulfamonomethoxine	3	2.5	0.625
+D23	Sulfamonomethoxine 4	Sulfamonomethoxine	4	1.25	0.3125
+F17	Clofazimine 1	Clofazimine	1	0.125	0.03125
+F19	Clofazimine 2	Clofazimine	2	0.0625	0.015625
+F21	Clofazimine 3	Clofazimine	3	0.03125	0.0078125
+F23	Clofazimine 4	Clofazimine	4	0.015625	0.00390625
+H17	EGCG 1	EGCG	1	20	5
+H19	EGCG 2	EGCG	2	10	2.5
+H21	EGCG 3	EGCG	3	5	1.25
+H23	EGCG 4	EGCG	4	2.5	0.625
+J17	Control7 1	Control7	1	0	0
+J19	Control7 2	Control7	2	0	0
+J21	Control7 3	Control7	3	0	0
+J23	Control7 4	Control7	4	0	0
+L17	Cerulenin 1	Cerulenin	1	10	2.5
+L19	Cerulenin 2	Cerulenin	2	5	1.25
+L21	Cerulenin 3	Cerulenin	3	2.5	0.625
+L23	Cerulenin 4	Cerulenin	4	1.25	0.3125
+N17	Chlorhexidine 1	Chlorhexidine	1	0.5	0.125
+N19	Chlorhexidine 2	Chlorhexidine	2	0.25	0.0625
+N21	Chlorhexidine 3	Chlorhexidine	3	0.125	0.03125
+N23	Chlorhexidine 4	Chlorhexidine	4	0.0625	0.015625
+P17	Benzalkonium 1	Benzalkonium	1	2	0.5
+P19	Benzalkonium 2	Benzalkonium	2	1	0.25
+P21	Benzalkonium 3	Benzalkonium	3	0.5	0.125
+P23	Benzalkonium 4	Benzalkonium	4	0.25	0.0625
+B2	Polymyxin B 1	Polymyxin B	1	1	0.25
+B4	Polymyxin B 2	Polymyxin B	2	0.5	0.125
+B6	Polymyxin B 3	Polymyxin B	3	0.25	0.0625
+B8	Polymyxin B 4	Polymyxin B	4	0.125	0.03125
+D2	Colistin 1	Colistin	1	100	25
+D4	Colistin 2	Colistin	2	50	12.5
+D6	Colistin 3	Colistin	3	25	6.25
+D8	Colistin 4	Colistin	4	12.5	3.125
+F2	Triclosan 1	Triclosan	1	8	2
+F4	Triclosan 2	Triclosan	2	4	1
+F6	Triclosan 3	Triclosan	3	2	0.5
+F8	Triclosan 4	Triclosan	4	1	0.25
+H2	Bacitracin 1	Bacitracin	1	1	0.25
+H4	Bacitracin 2	Bacitracin	2	0.5	0.125
+H6	Bacitracin 3	Bacitracin	3	0.25	0.0625
+H8	Bacitracin 4	Bacitracin	4	0.125	0.03125
+J2	PMS 1	PMS	1	7	1.75
+J4	PMS 2	PMS	2	3.5	0.875
+J6	PMS 3	PMS	3	1.75	0.4375
+J8	PMS 4	PMS	4	0.875	0.21875
+L2	Paraquat 1	Paraquat	1	128	32
+L4	Paraquat 2	Paraquat	2	64	16
+L6	Paraquat 3	Paraquat	3	32	8
+L8	Paraquat 4	Paraquat	4	16	4
+N2	Control8 1	Control8	1	0	0
+N4	Control8 2	Control8	2	0	0
+N6	Control8 3	Control8	3	0	0
+N8	Control8 4	Control8	4	0	0
+P2	Pyocyanin 1	Pyocyanin	1	10	2.5
+P4	Pyocyanin 2	Pyocyanin	2	5	1.25
+P6	Pyocyanin 3	Pyocyanin	3	2.5	0.625
+P8	Pyocyanin 4	Pyocyanin	4	1.25	0.3125
+B10	Pseudomonic acid 1	Pseudomonic acid	1	0.25	0.0625
+B12	Pseudomonic acid 2	Pseudomonic acid	2	0.125	0.03125
+B14	Pseudomonic acid 3	Pseudomonic acid	3	0.0625	0.015625
+B16	Pseudomonic acid 4	Pseudomonic acid	4	0.03125	0.0078125
+D10	Reserpine 1	Reserpine	1	50	12.5
+D12	Reserpine 2	Reserpine	2	25	6.25
+D14	Reserpine 3	Reserpine	3	12.5	3.125
+D16	Reserpine 4	Reserpine	4	6.25	1.5625
+F10	Verapamil 1	Verapamil	1	250	62.5
+F12	Verapamil 2	Verapamil	2	125	31.25
+F14	Verapamil 3	Verapamil	3	62.5	15.625
+F16	Verapamil 4	Verapamil	4	31.25	7.8125
+H10	Loperamide 1	Loperamide	1	50	12.5
+H12	Loperamide 2	Loperamide	2	25	6.25
+H14	Loperamide 3	Loperamide	3	12.5	3.125
+H16	Loperamide 4	Loperamide	4	6.25	1.5625
+J10	NonActin 1	NonActin	1	1	0.25
+J12	NonActin 2	NonActin	2	0.5	0.125
+J14	NonActin 3	NonActin	3	0.25	0.0625
+J16	NonActin 4	NonActin	4	0.125	0.03125
+L10	Control9 1	Control9	1	0	0
+L12	Control9 2	Control9	2	0	0
+L14	Control9 3	Control9	3	0	0
+L16	Control9 4	Control9	4	0	0
+N10	Monensin 1	Monensin	1	75	18.75
+N12	Monensin 2	Monensin	2	37.5	9.375
+N14	Monensin 3	Monensin	3	18.75	4.6875
+N16	Monensin 4	Monensin	4	9.375	2.34375
+P10	Sparfloxaxin 1	Sparfloxaxin	1	0.25	0.0625
+P12	Sparfloxaxin 2	Sparfloxaxin	2	0.125	0.03125
+P14	Sparfloxaxin 3	Sparfloxaxin	3	0.0625	0.015625
+P16	Sparfloxaxin 4	Sparfloxaxin	4	0.03125	0.0078125
+B18	Actinomycin D 1	Actinomycin D	1	1	0.25
+B20	Actinomycin D 2	Actinomycin D	2	0.5	0.125
+B22	Actinomycin D 3	Actinomycin D	3	0.25	0.0625
+B24	Actinomycin D 4	Actinomycin D	4	0.125	0.03125
+D18	Isoniazid 1	Isoniazid	1	0.3	0.075
+D20	Isoniazid 2	Isoniazid	2	0.15	0.0375
+D22	Isoniazid 3	Isoniazid	3	0.075	0.01875
+D24	Isoniazid 4	Isoniazid	4	0.0375	0.009375
+F18	4-Aminosalicylic acid 1	4-Aminosalicylic acid	1	50	12.5
+F20	4-Aminosalicylic acid 2	4-Aminosalicylic acid	2	25	6.25
+F22	4-Aminosalicylic acid 3	4-Aminosalicylic acid	3	12.5	3.125
+F24	4-Aminosalicylic acid 4	4-Aminosalicylic acid	4	6.25	1.5625
+H18	Berberine 1	Berberine	1	50	12.5
+H20	Berberine 2	Berberine	2	25	6.25
+H22	Berberine 3	Berberine	3	12.5	3.125
+H24	Berberine 4	Berberine	4	6.25	1.5625
+J18	Valinomycin 1	Valinomycin	1	4	1
+J20	Valinomycin 2	Valinomycin	2	2	0.5
+J22	Valinomycin 3	Valinomycin	3	1	0.25
+J24	Valinomycin 4	Valinomycin	4	0.5	0.125
+L18	Control9 1	Control9	1	0	0
+L20	Control9 2	Control9	2	0	0
+L22	Control9 3	Control9	3	0	0
+L24	Control9 4	Control9	4	0	0
+N18	Control10 1	Control10	1	0	0
+N20	Control10 2	Control10	2	0	0
+N22	Control10 3	Control10	3	0	0
+N24	Control10 4	Control10	4	0	0
+P18	Control11 1	Control11	1	0	0
+P20	Control11 2	Control11	2	0	0
+P22	Control11 3	Control11	3	0	0
+P24	Control11 4	Control11	4	0	0
